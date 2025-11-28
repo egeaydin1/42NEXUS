@@ -1,6 +1,8 @@
 "use client";
 
 import { useEffect, useState, useRef } from 'react';
+import { useSession } from "next-auth/react";
+import { useRouter } from "next/navigation";
 
 interface Cheat {
     projectName: string;
@@ -22,6 +24,14 @@ interface Cheater {
 import IntroSequence from '@/components/IntroSequence';
 
 export default function CheatersPage() {
+    const { data: session, status } = useSession();
+    const router = useRouter();
+
+    useEffect(() => {
+        if (status === "unauthenticated") {
+            router.push("/login");
+        }
+    }, [status, router]);
     const [cheaters, setCheaters] = useState<Cheater[]>([]);
     const [loading, setLoading] = useState(true);
     const [expandedUser, setExpandedUser] = useState<number | null>(null);
@@ -115,6 +125,14 @@ export default function CheatersPage() {
             }
             return 0;
         });
+
+    if (status === "loading") {
+        return <div className="min-h-screen bg-black text-green-500 flex items-center justify-center font-mono text-xl animate-pulse">INITIALIZING SECURITY PROTOCOLS...</div>;
+    }
+
+    if (!session) {
+        return null;
+    }
 
     return (
         <div className="min-h-screen bg-black text-red-600 font-mono p-8 selection:bg-red-900 selection:text-white relative overflow-x-hidden">
