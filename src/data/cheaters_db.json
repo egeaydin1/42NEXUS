@@ -1,0 +1,2537 @@
+{
+  "lastUpdated": 1764369260609,
+  "nextPage": 2,
+  "cheaters": [
+    {
+      "id": 191188,
+      "login": "muharsla",
+      "image": "https://cdn.intra.42.fr/users/f701ae04631ba38f0f4436f96e47f1dc/muharsla.jpg",
+      "cheatCount": 5,
+      "lastCheatDate": "2025-11-27T08:19:38.428Z",
+      "cheats": [
+        {
+          "projectName": "ft_printf",
+          "date": "2025-11-27T08:17:38.799Z",
+          "mark": -42
+        },
+        {
+          "projectName": "get_next_line",
+          "date": "2025-11-27T08:18:25.712Z",
+          "mark": -42
+        },
+        {
+          "projectName": "minitalk",
+          "date": "2025-11-27T08:19:04.495Z",
+          "mark": -42
+        },
+        {
+          "projectName": "push_swap",
+          "date": "2025-11-27T08:18:46.185Z",
+          "mark": -42
+        },
+        {
+          "projectName": "FdF",
+          "date": "2025-11-27T08:19:38.428Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "SERIAL_OFFENDER",
+        "CRIME_LORD",
+        "COMBO_BREAKER"
+      ],
+      "campus": "Kocaeli",
+      "isPatron": false
+    },
+    {
+      "id": 157131,
+      "login": "hakibar",
+      "image": "https://cdn.intra.42.fr/users/978445f418917733dfdb7d4389c44ab6/hakibar.jpg",
+      "cheatCount": 5,
+      "lastCheatDate": "2025-11-27T06:50:31.622Z",
+      "cheats": [
+        {
+          "projectName": "ft_printf",
+          "date": "2025-11-27T06:50:09.435Z",
+          "mark": -42
+        },
+        {
+          "projectName": "get_next_line",
+          "date": "2025-11-27T06:50:03.467Z",
+          "mark": -42
+        },
+        {
+          "projectName": "minitalk",
+          "date": "2025-11-27T06:50:25.987Z",
+          "mark": -42
+        },
+        {
+          "projectName": "push_swap",
+          "date": "2025-11-27T06:50:15.912Z",
+          "mark": -42
+        },
+        {
+          "projectName": "so_long",
+          "date": "2025-11-27T06:50:31.622Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "SERIAL_OFFENDER",
+        "CRIME_LORD",
+        "COMBO_BREAKER"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 175422,
+      "login": "beakurek",
+      "image": "https://cdn.intra.42.fr/users/1b22bf6d29f7af75c83825b6f8a5e67b/beakurek.jpg",
+      "cheatCount": 5,
+      "lastCheatDate": "2025-10-27T12:26:48.355Z",
+      "cheats": [
+        {
+          "projectName": "get_next_line",
+          "date": "2025-10-27T12:22:42.098Z",
+          "mark": -42
+        },
+        {
+          "projectName": "minitalk",
+          "date": "2025-10-27T12:26:00.230Z",
+          "mark": -42
+        },
+        {
+          "projectName": "push_swap",
+          "date": "2025-10-27T12:26:15.546Z",
+          "mark": -42
+        },
+        {
+          "projectName": "so_long",
+          "date": "2025-10-27T12:26:33.809Z",
+          "mark": -42
+        },
+        {
+          "projectName": "Philosophers",
+          "date": "2025-10-27T12:26:48.355Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "SERIAL_OFFENDER",
+        "CRIME_LORD",
+        "COMBO_BREAKER"
+      ],
+      "campus": "Kocaeli",
+      "isPatron": false
+    },
+    {
+      "id": 175842,
+      "login": "yayiker",
+      "image": "https://cdn.intra.42.fr/users/e5cdc4a8276b6af972a25af0a46ad233/yayiker.jpg",
+      "cheatCount": 4,
+      "lastCheatDate": "2025-11-27T08:22:14.104Z",
+      "cheats": [
+        {
+          "projectName": "ft_printf",
+          "date": "2025-11-27T08:21:29.748Z",
+          "mark": -42
+        },
+        {
+          "projectName": "get_next_line",
+          "date": "2025-11-27T08:21:15.130Z",
+          "mark": -42
+        },
+        {
+          "projectName": "minitalk",
+          "date": "2025-11-27T08:22:14.104Z",
+          "mark": -42
+        },
+        {
+          "projectName": "push_swap",
+          "date": "2025-11-27T08:21:58.266Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "SERIAL_OFFENDER",
+        "COMBO_BREAKER"
+      ],
+      "campus": "Kocaeli",
+      "isPatron": false
+    },
+    {
+      "id": 175457,
+      "login": "rfirat",
+      "image": "https://cdn.intra.42.fr/users/81097aad07bbf46a4434eaa9292404ad/rfirat.jpg",
+      "cheatCount": 3,
+      "lastCheatDate": "2025-11-27T07:34:40.800Z",
+      "cheats": [
+        {
+          "projectName": "get_next_line",
+          "date": "2025-11-27T07:34:33.731Z",
+          "mark": -42
+        },
+        {
+          "projectName": "pipex",
+          "date": "2025-11-27T07:34:40.800Z",
+          "mark": -42
+        },
+        {
+          "projectName": "push_swap",
+          "date": "2025-11-27T07:34:23.874Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "SERIAL_OFFENDER",
+        "COMBO_BREAKER"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 164123,
+      "login": "hasivaci",
+      "image": "https://cdn.intra.42.fr/users/eea609de0c8ace611ae4c3a504c8e05a/hasivaci.jpg",
+      "cheatCount": 3,
+      "lastCheatDate": "2025-10-27T12:28:56.251Z",
+      "cheats": [
+        {
+          "projectName": "get_next_line",
+          "date": "2025-10-27T12:23:25.519Z",
+          "mark": -42
+        },
+        {
+          "projectName": "push_swap",
+          "date": "2025-10-27T12:28:44.932Z",
+          "mark": -42
+        },
+        {
+          "projectName": "so_long",
+          "date": "2025-10-27T12:28:56.251Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "SERIAL_OFFENDER",
+        "COMBO_BREAKER"
+      ],
+      "campus": "Kocaeli",
+      "isPatron": false
+    },
+    {
+      "id": 197846,
+      "login": "obastug",
+      "image": "https://cdn.intra.42.fr/users/2630ecd264943fd72b826270e8b183f0/obastug.jpg",
+      "cheatCount": 2,
+      "lastCheatDate": "2025-11-27T08:20:20.604Z",
+      "cheats": [
+        {
+          "projectName": "ft_printf",
+          "date": "2025-11-27T08:20:00.770Z",
+          "mark": -42
+        },
+        {
+          "projectName": "get_next_line",
+          "date": "2025-11-27T08:20:20.604Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "COMBO_BREAKER"
+      ],
+      "campus": "Kocaeli",
+      "isPatron": false
+    },
+    {
+      "id": 198552,
+      "login": "skaynar",
+      "image": "https://cdn.intra.42.fr/users/160985a7597a0343eaf2d7896dc0e998/skaynar.jpg",
+      "cheatCount": 2,
+      "lastCheatDate": "2025-11-27T07:35:50.740Z",
+      "cheats": [
+        {
+          "projectName": "ft_printf",
+          "date": "2025-11-27T07:35:50.740Z",
+          "mark": -42
+        },
+        {
+          "projectName": "get_next_line",
+          "date": "2025-11-27T07:35:45.105Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "COMBO_BREAKER"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 191422,
+      "login": "ican",
+      "image": "https://cdn.intra.42.fr/users/31faa086e308ed34083af4b530ac2942/ican.jpg",
+      "cheatCount": 2,
+      "lastCheatDate": "2025-11-27T07:16:14.686Z",
+      "cheats": [
+        {
+          "projectName": "ft_printf",
+          "date": "2025-11-27T07:16:08.035Z",
+          "mark": -42
+        },
+        {
+          "projectName": "get_next_line",
+          "date": "2025-11-27T07:16:14.686Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "COMBO_BREAKER"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 191352,
+      "login": "igurses",
+      "image": "https://cdn.intra.42.fr/users/c3d2e620dd4114534c5412c1a6011c06/igurses.jpg",
+      "cheatCount": 2,
+      "lastCheatDate": "2025-11-27T07:14:59.101Z",
+      "cheats": [
+        {
+          "projectName": "get_next_line",
+          "date": "2025-11-27T07:14:53.196Z",
+          "mark": -42
+        },
+        {
+          "projectName": "ft_printf",
+          "date": "2025-11-27T07:14:59.101Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "COMBO_BREAKER"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 175803,
+      "login": "ekamar",
+      "image": "https://cdn.intra.42.fr/users/fb954de1db521ab948ff5faf2bf7ffaf/ekamar.jpg",
+      "cheatCount": 2,
+      "lastCheatDate": "2025-11-27T06:45:06.964Z",
+      "cheats": [
+        {
+          "projectName": "ft_printf",
+          "date": "2025-11-27T06:45:06.964Z",
+          "mark": -42
+        },
+        {
+          "projectName": "get_next_line",
+          "date": "2025-11-27T06:44:50.845Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "COMBO_BREAKER"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 198654,
+      "login": "ekibar",
+      "image": "https://cdn.intra.42.fr/users/e4f5cf913a31007e7db9cf70f24bb088/ekibar.jpg",
+      "cheatCount": 2,
+      "lastCheatDate": "2025-11-27T06:39:20.566Z",
+      "cheats": [
+        {
+          "projectName": "ft_printf",
+          "date": "2025-11-27T06:39:20.566Z",
+          "mark": -42
+        },
+        {
+          "projectName": "get_next_line",
+          "date": "2025-11-27T06:39:00.979Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "COMBO_BREAKER"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 176009,
+      "login": "amert",
+      "image": "https://cdn.intra.42.fr/users/6343294403390e788c0f54e887f54fab/amert.jpg",
+      "cheatCount": 2,
+      "lastCheatDate": "2025-11-27T06:31:46.018Z",
+      "cheats": [
+        {
+          "projectName": "ft_printf",
+          "date": "2025-11-27T06:31:37.509Z",
+          "mark": -42
+        },
+        {
+          "projectName": "get_next_line",
+          "date": "2025-11-27T06:31:46.018Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "COMBO_BREAKER"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 126531,
+      "login": "aakpinar",
+      "image": "https://cdn.intra.42.fr/users/06a61d825aba4f8378d01871896360ca/aakpinar.jpg",
+      "cheatCount": 2,
+      "lastCheatDate": "2025-11-27T06:28:51.870Z",
+      "cheats": [
+        {
+          "projectName": "ft_printf",
+          "date": "2025-11-27T06:28:51.870Z",
+          "mark": -42
+        },
+        {
+          "projectName": "get_next_line",
+          "date": "2025-11-27T06:28:42.625Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "COMBO_BREAKER"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 191758,
+      "login": "aldurmaz",
+      "image": "https://cdn.intra.42.fr/users/5632ffb708cd53618aa369032d7c5e20/aldurmaz.jpg",
+      "cheatCount": 2,
+      "lastCheatDate": "2025-10-21T14:19:19.226Z",
+      "cheats": [
+        {
+          "projectName": "ft_printf",
+          "date": "2025-10-21T14:19:19.226Z",
+          "mark": -42
+        },
+        {
+          "projectName": "get_next_line",
+          "date": "2025-10-21T14:17:04.904Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "COMBO_BREAKER"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 175889,
+      "login": "efsen",
+      "image": "https://cdn.intra.42.fr/users/6dc745658c3e6bd89174fce6630ec0ab/efsen.jpg",
+      "cheatCount": 2,
+      "lastCheatDate": "2025-10-21T14:02:25.301Z",
+      "cheats": [
+        {
+          "projectName": "minitalk",
+          "date": "2025-10-21T14:02:25.301Z",
+          "mark": -42
+        },
+        {
+          "projectName": "push_swap",
+          "date": "2025-10-21T14:02:07.546Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "COMBO_BREAKER"
+      ],
+      "campus": "Kocaeli",
+      "isPatron": false
+    },
+    {
+      "id": 191759,
+      "login": "nuciftci",
+      "image": "https://cdn.intra.42.fr/users/88a78e1418dc88d90fc4f9084be76801/nuciftci.jpg",
+      "cheatCount": 2,
+      "lastCheatDate": "2025-10-21T12:30:46.348Z",
+      "cheats": [
+        {
+          "projectName": "ft_printf",
+          "date": "2025-10-21T12:30:46.348Z",
+          "mark": -42
+        },
+        {
+          "projectName": "get_next_line",
+          "date": "2025-10-21T12:29:41.395Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "COMBO_BREAKER"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 191310,
+      "login": "mehcakir",
+      "image": "https://cdn.intra.42.fr/users/1008e131ee8039ac8e770b718574016a/mehcakir.jpg",
+      "cheatCount": 2,
+      "lastCheatDate": "2025-10-21T11:56:37.494Z",
+      "cheats": [
+        {
+          "projectName": "ft_printf",
+          "date": "2025-10-21T11:56:37.494Z",
+          "mark": -42
+        },
+        {
+          "projectName": "get_next_line",
+          "date": "2025-10-21T11:55:57.317Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "COMBO_BREAKER"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 164082,
+      "login": "zyilmaz",
+      "image": "https://cdn.intra.42.fr/users/aae1b81a0980d14abe192f0dd17011df/zyilmaz.jpg",
+      "cheatCount": 2,
+      "lastCheatDate": "2025-10-16T08:17:19.532Z",
+      "cheats": [
+        {
+          "projectName": "ft_printf",
+          "date": "2025-10-16T08:17:19.532Z",
+          "mark": -42
+        },
+        {
+          "projectName": "get_next_line",
+          "date": "2025-10-16T08:15:32.657Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "COMBO_BREAKER"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 191771,
+      "login": "ioner",
+      "image": "https://cdn.intra.42.fr/users/893d1fd61ff7e9e480369764c2408eab/ioner.jpg",
+      "cheatCount": 2,
+      "lastCheatDate": "2025-05-22T15:16:24.949Z",
+      "cheats": [
+        {
+          "projectName": "push_swap",
+          "date": "2025-05-22T15:16:11.844Z",
+          "mark": -42
+        },
+        {
+          "projectName": "so_long",
+          "date": "2025-05-22T15:16:24.949Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "COMBO_BREAKER"
+      ],
+      "campus": "Kocaeli",
+      "isPatron": false
+    },
+    {
+      "id": 175425,
+      "login": "yalcyilm",
+      "image": "https://cdn.intra.42.fr/users/40458ee5a5861fbb737024e9a4f67de7/yalcyilm.jpg",
+      "cheatCount": 2,
+      "lastCheatDate": "2025-02-26T13:15:52.343Z",
+      "cheats": [
+        {
+          "projectName": "ft_printf",
+          "date": "2025-02-26T13:15:52.343Z",
+          "mark": -42
+        },
+        {
+          "projectName": "get_next_line",
+          "date": "2025-02-26T13:15:25.108Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "COMBO_BREAKER"
+      ],
+      "campus": "Kocaeli",
+      "isPatron": false
+    },
+    {
+      "id": 198564,
+      "login": "mdinc",
+      "image": "https://cdn.intra.42.fr/users/156534d16c10ffbcf440e3c25e89fd0c/mdinc.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2025-11-27T09:46:19.911Z",
+      "cheats": [
+        {
+          "projectName": "ft_printf",
+          "date": "2025-11-27T09:46:19.911Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "FRESH_MEAT"
+      ],
+      "campus": "Kocaeli",
+      "isPatron": false
+    },
+    {
+      "id": 175539,
+      "login": "muhaoz",
+      "image": "https://cdn.intra.42.fr/users/45a8548138d51806776641ac6d53a4d9/muhaoz.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2025-11-27T09:43:57.010Z",
+      "cheats": [
+        {
+          "projectName": "get_next_line",
+          "date": "2025-11-27T09:43:57.010Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [],
+      "campus": "Kocaeli",
+      "isPatron": false
+    },
+    {
+      "id": 168502,
+      "login": "yant",
+      "image": "https://cdn.intra.42.fr/users/6e892a29c1d1c5c5cdd5e8213dc9ce02/yant.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2025-11-27T08:20:45.594Z",
+      "cheats": [
+        {
+          "projectName": "get_next_line",
+          "date": "2025-11-27T08:20:45.594Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [],
+      "campus": "Kocaeli",
+      "isPatron": false
+    },
+    {
+      "id": 191201,
+      "login": "kalkan",
+      "image": "https://cdn.intra.42.fr/users/1a2f9453078b9a8bf4f3131eb5ba0086/kalkan.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2025-11-27T08:16:06.140Z",
+      "cheats": [
+        {
+          "projectName": "get_next_line",
+          "date": "2025-11-27T08:16:06.140Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [],
+      "campus": "Kocaeli",
+      "isPatron": false
+    },
+    {
+      "id": 175391,
+      "login": "yihakan",
+      "image": "https://cdn.intra.42.fr/users/1b0e47406f3d55bff3455c3d28bc011e/yihakan.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2025-11-27T07:44:24.328Z",
+      "cheats": [
+        {
+          "projectName": "get_next_line",
+          "date": "2025-11-27T07:44:24.328Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 175369,
+      "login": "yilgar",
+      "image": "https://cdn.intra.42.fr/users/5e166cf9978470e51fe044b6669b8bab/yilgar.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2025-11-27T07:43:40.619Z",
+      "cheats": [
+        {
+          "projectName": "push_swap",
+          "date": "2025-11-27T07:43:40.619Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 191375,
+      "login": "udemirci",
+      "image": "https://cdn.intra.42.fr/users/a264f7deaf884059e7668fbf3e45ca55/udemirci.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2025-11-27T07:43:12.444Z",
+      "cheats": [
+        {
+          "projectName": "get_next_line",
+          "date": "2025-11-27T07:43:12.444Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 164206,
+      "login": "terden",
+      "image": "https://cdn.intra.42.fr/users/6e11427c8f62b0b50eaf3696aafe13c2/terden.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2025-11-27T07:41:29.286Z",
+      "cheats": [
+        {
+          "projectName": "get_next_line",
+          "date": "2025-11-27T07:41:29.286Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 198627,
+      "login": "eunlu",
+      "image": "https://cdn.intra.42.fr/users/e0cb397f43756743c7e892e45275cd7e/eunlu.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2025-11-27T07:37:20.761Z",
+      "cheats": [
+        {
+          "projectName": "get_next_line",
+          "date": "2025-11-27T07:37:20.761Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 198615,
+      "login": "sencetin",
+      "image": "https://cdn.intra.42.fr/users/63b00f33259851555b859c536ff16980/sencetin.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2025-11-27T07:36:35.194Z",
+      "cheats": [
+        {
+          "projectName": "get_next_line",
+          "date": "2025-11-27T07:36:35.194Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 191324,
+      "login": "raktas",
+      "image": "https://cdn.intra.42.fr/users/6066b2aba8a7057ef496ef124938b57b/raktas.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2025-11-27T07:33:14.731Z",
+      "cheats": [
+        {
+          "projectName": "get_next_line",
+          "date": "2025-11-27T07:33:14.731Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 198130,
+      "login": "ibayandu",
+      "image": "https://cdn.intra.42.fr/users/736999ab2a52391b53fe4186b1d160a6/ibayandu.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2025-11-27T07:18:43.927Z",
+      "cheats": [
+        {
+          "projectName": "get_next_line",
+          "date": "2025-11-27T07:18:43.927Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 191735,
+      "login": "enbuyuk",
+      "image": "https://cdn.intra.42.fr/users/c79516679d737172bac6f560f48f6815/enbuyuk.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2025-11-27T06:43:55.010Z",
+      "cheats": [
+        {
+          "projectName": "ft_printf",
+          "date": "2025-11-27T06:43:55.010Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 191376,
+      "login": "aycami",
+      "image": "https://cdn.intra.42.fr/users/84b4572dee99f584ad33038a4383c65c/aycami.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2025-11-27T06:32:42.626Z",
+      "cheats": [
+        {
+          "projectName": "ft_printf",
+          "date": "2025-11-27T06:32:42.626Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 191791,
+      "login": "ayasar",
+      "image": "https://cdn.intra.42.fr/users/e8e76dfa8db2deeb1dc8f0a716c8ae24/ayasar.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2025-11-27T06:23:34.467Z",
+      "cheats": [
+        {
+          "projectName": "get_next_line",
+          "date": "2025-11-27T06:23:34.467Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 191336,
+      "login": "austunso",
+      "image": "https://cdn.intra.42.fr/users/e215689860c098b96b37f6004b719140/austunso.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2025-11-27T06:17:08.342Z",
+      "cheats": [
+        {
+          "projectName": "get_next_line",
+          "date": "2025-11-27T06:17:08.342Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 191238,
+      "login": "meaydino",
+      "image": "https://cdn.intra.42.fr/users/37019aa4b82310ab59ef651e93ebaf22/meaydino.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2025-11-06T14:41:50.555Z",
+      "cheats": [
+        {
+          "projectName": "push_swap",
+          "date": "2025-11-06T14:41:50.555Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [],
+      "campus": "Kocaeli",
+      "isPatron": false
+    },
+    {
+      "id": 191783,
+      "login": "iekmen",
+      "image": "https://cdn.intra.42.fr/users/6228a28bcf7303c9c3f24255283a2946/iekmen.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2025-11-06T14:23:48.016Z",
+      "cheats": [
+        {
+          "projectName": "minitalk",
+          "date": "2025-11-06T14:23:48.016Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [],
+      "campus": "Kocaeli",
+      "isPatron": false
+    },
+    {
+      "id": 191692,
+      "login": "kikiz",
+      "image": "https://cdn.intra.42.fr/users/94321b410c4489e0beaf4268cd8539dc/kikiz.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2025-10-21T14:23:37.004Z",
+      "cheats": [
+        {
+          "projectName": "get_next_line",
+          "date": "2025-10-21T14:23:37.004Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 191773,
+      "login": "beysonme",
+      "image": "https://cdn.intra.42.fr/users/5b3b98f2475c08d0ba9461b30c97329a/beysonme.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2025-10-21T14:21:27.371Z",
+      "cheats": [
+        {
+          "projectName": "get_next_line",
+          "date": "2025-10-21T14:21:27.371Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 175531,
+      "login": "makboga",
+      "image": "https://cdn.intra.42.fr/users/6667876c6b0ebc0857e9a309deed4309/makboga.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2025-10-21T14:14:24.346Z",
+      "cheats": [
+        {
+          "projectName": "get_next_line",
+          "date": "2025-10-21T14:14:24.346Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 164114,
+      "login": "huozturk",
+      "image": "https://cdn.intra.42.fr/users/c8ed7dd206d2165ec93003a07b6b9616/huozturk.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2025-10-21T14:12:39.635Z",
+      "cheats": [
+        {
+          "projectName": "get_next_line",
+          "date": "2025-10-21T14:12:39.635Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [],
+      "campus": "Kocaeli",
+      "isPatron": false
+    },
+    {
+      "id": 175934,
+      "login": "emrozmen",
+      "image": "https://cdn.intra.42.fr/users/d505f4cdd6217c26f9965e3bf6fba325/emrozmen.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2025-10-21T14:09:01.596Z",
+      "cheats": [
+        {
+          "projectName": "get_next_line",
+          "date": "2025-10-21T14:09:01.596Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [],
+      "campus": "Kocaeli",
+      "isPatron": false
+    },
+    {
+      "id": 156443,
+      "login": "ivar",
+      "image": "https://cdn.intra.42.fr/users/aab31bf7b02a239290916a3fbbdc1bd7/ivar.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2025-10-21T14:06:28.134Z",
+      "cheats": [
+        {
+          "projectName": "Philosophers",
+          "date": "2025-10-21T14:06:28.134Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [],
+      "campus": "Kocaeli",
+      "isPatron": false
+    },
+    {
+      "id": 175400,
+      "login": "aldinc",
+      "image": "https://cdn.intra.42.fr/users/d63bc59d53cfb07c0dc57bf7f56e853b/aldinc.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2025-10-21T12:58:55.403Z",
+      "cheats": [
+        {
+          "projectName": "get_next_line",
+          "date": "2025-10-21T12:58:55.403Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 191696,
+      "login": "dduyar",
+      "image": "https://cdn.intra.42.fr/users/7be2e54f4bf72f92b6ed50928f7dea18/dduyar.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2025-10-21T11:52:08.766Z",
+      "cheats": [
+        {
+          "projectName": "get_next_line",
+          "date": "2025-10-21T11:52:08.766Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 220868,
+      "login": "dgencay",
+      "image": "https://cdn.intra.42.fr/users/40253c8d20087c8679b33c6543c2dfb2/dgencay.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2025-10-08T13:30:08.902Z",
+      "cheats": [
+        {
+          "projectName": "ft_printf",
+          "date": "2025-10-08T13:30:08.902Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [],
+      "campus": "Kocaeli",
+      "isPatron": false
+    },
+    {
+      "id": 174401,
+      "login": "itest",
+      "image": "https://cdn.intra.42.fr/users/96b671d4799e0b4f17cecdd9f17c8de0/itest.png",
+      "cheatCount": 1,
+      "lastCheatDate": "2025-05-24T15:03:37.336Z",
+      "cheats": [
+        {
+          "projectName": "Libft",
+          "date": "2025-05-24T15:03:37.336Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "WEEKEND_WARRIOR"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 175841,
+      "login": "eulku",
+      "image": "https://cdn.intra.42.fr/users/fa63509216cf7c7c8b6214fb1b1ee290/eulku.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2025-05-22T15:15:12.207Z",
+      "cheats": [
+        {
+          "projectName": "FdF",
+          "date": "2025-05-22T15:15:12.207Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [],
+      "campus": "Kocaeli",
+      "isPatron": false
+    },
+    {
+      "id": 175414,
+      "login": "omkuzu",
+      "image": "https://cdn.intra.42.fr/users/992c023f8496ff206ba12f9e6de9d435/omkuzu.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2025-05-22T14:56:44.574Z",
+      "cheats": [
+        {
+          "projectName": "so_long",
+          "date": "2025-05-22T14:56:44.574Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [],
+      "campus": "Kocaeli",
+      "isPatron": false
+    },
+    {
+      "id": 191397,
+      "login": "samaslan",
+      "image": "https://cdn.intra.42.fr/users/0bd5a0c466f672cc1aceb5d2c276098d/samaslan.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2025-02-26T13:56:16.520Z",
+      "cheats": [
+        {
+          "projectName": "get_next_line",
+          "date": "2025-02-26T13:56:16.520Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 175402,
+      "login": "ogonul",
+      "image": "https://cdn.intra.42.fr/users/66110e2555b1472ac4afda47380081f4/ogonul.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2025-02-26T13:56:15.856Z",
+      "cheats": [
+        {
+          "projectName": "get_next_line",
+          "date": "2025-02-26T13:56:15.856Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 198573,
+      "login": "muduran",
+      "image": "https://cdn.intra.42.fr/users/7a6b60cd4b5473f197539cc766799a8f/muduran.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2025-02-26T13:56:14.303Z",
+      "cheats": [
+        {
+          "projectName": "get_next_line",
+          "date": "2025-02-26T13:56:14.303Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 175786,
+      "login": "hicel",
+      "image": "https://cdn.intra.42.fr/users/f07a738422841c5ac8e692579f84ad36/hicel.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2025-02-26T13:56:13.491Z",
+      "cheats": [
+        {
+          "projectName": "ft_printf",
+          "date": "2025-02-26T13:56:13.491Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 191890,
+      "login": "hakorukl",
+      "image": "https://cdn.intra.42.fr/users/07686f3a24c2f03914abe0f97980ba2e/hakorukl.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2025-02-26T13:56:12.785Z",
+      "cheats": [
+        {
+          "projectName": "get_next_line",
+          "date": "2025-02-26T13:56:12.785Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 175793,
+      "login": "eysevinc",
+      "image": "https://cdn.intra.42.fr/users/476a8e6ac14c8a27eeca9cd90b1f1452/eysevinc.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2025-02-26T13:56:12.035Z",
+      "cheats": [
+        {
+          "projectName": "ft_printf",
+          "date": "2025-02-26T13:56:12.035Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 197785,
+      "login": "hsevinc",
+      "image": "https://cdn.intra.42.fr/users/ec78cfaad86885f74b6fa4980212347a/hsevinc.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2025-02-26T13:17:25.279Z",
+      "cheats": [
+        {
+          "projectName": "get_next_line",
+          "date": "2025-02-26T13:17:25.279Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [],
+      "campus": "Kocaeli",
+      "isPatron": false
+    },
+    {
+      "id": 197903,
+      "login": "hakalyon",
+      "image": "https://cdn.intra.42.fr/users/8b4c9e131a5d3188ab919448e1457c02/hakalyon.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2025-02-26T13:17:11.422Z",
+      "cheats": [
+        {
+          "projectName": "get_next_line",
+          "date": "2025-02-26T13:17:11.422Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [],
+      "campus": "Kocaeli",
+      "isPatron": false
+    },
+    {
+      "id": 175476,
+      "login": "gulsdemi",
+      "image": "https://cdn.intra.42.fr/users/de5e4f25603e1daee538e34c0b88344d/gulsdemi.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2025-02-26T13:16:49.329Z",
+      "cheats": [
+        {
+          "projectName": "ft_printf",
+          "date": "2025-02-26T13:16:49.329Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [],
+      "campus": "Kocaeli",
+      "isPatron": false
+    },
+    {
+      "id": 131305,
+      "login": "emkardas",
+      "image": "https://cdn.intra.42.fr/users/5c90d317e4671a00a403a442e9683529/emkardas.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2025-02-10T13:30:54.173Z",
+      "cheats": [
+        {
+          "projectName": "ft_transcendence",
+          "date": "2025-02-10T13:30:54.173Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "TEAM_BETRAYAL"
+      ],
+      "campus": "Kocaeli",
+      "isPatron": false
+    },
+    {
+      "id": 131296,
+      "login": "haycicek",
+      "image": "https://cdn.intra.42.fr/users/b47ba7a28588b5bebb20c95c6e377321/haycicek.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2025-02-10T13:30:54.043Z",
+      "cheats": [
+        {
+          "projectName": "ft_transcendence",
+          "date": "2025-02-10T13:30:54.043Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "TEAM_BETRAYAL"
+      ],
+      "campus": "Kocaeli",
+      "isPatron": false
+    },
+    {
+      "id": 131013,
+      "login": "myayla",
+      "image": "https://cdn.intra.42.fr/users/457801d31eace977c84497a951944c66/myayla.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2025-02-10T13:30:53.910Z",
+      "cheats": [
+        {
+          "projectName": "ft_transcendence",
+          "date": "2025-02-10T13:30:53.910Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "TEAM_BETRAYAL"
+      ],
+      "campus": "Kocaeli",
+      "isPatron": false
+    },
+    {
+      "id": 126546,
+      "login": "mulken",
+      "image": "https://cdn.intra.42.fr/users/3a4d460afe07f9ca032dadd05be1b9bc/mulken.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2025-02-10T13:30:53.781Z",
+      "cheats": [
+        {
+          "projectName": "ft_transcendence",
+          "date": "2025-02-10T13:30:53.781Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "TEAM_BETRAYAL"
+      ],
+      "campus": "Kocaeli",
+      "isPatron": false
+    },
+    {
+      "id": 131304,
+      "login": "fibrahim",
+      "image": "https://cdn.intra.42.fr/users/29335ba3429e40a2239f57b15b8e9f59/fibrahim.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2025-02-10T13:30:53.659Z",
+      "cheats": [
+        {
+          "projectName": "ft_transcendence",
+          "date": "2025-02-10T13:30:53.659Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "TEAM_BETRAYAL"
+      ],
+      "campus": "Kocaeli",
+      "isPatron": false
+    },
+    {
+      "id": 164165,
+      "login": "adinler",
+      "image": "https://cdn.intra.42.fr/users/7b41a96677e19749b074269452432f65/adinler.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2025-01-14T10:59:35.638Z",
+      "cheats": [
+        {
+          "projectName": "minishell",
+          "date": "2025-01-14T10:59:35.638Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "TEAM_BETRAYAL"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 156922,
+      "login": "alerkul",
+      "image": "https://cdn.intra.42.fr/users/6af09360e18172d44c5294ccc9b80b4f/alerkul.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2025-01-14T10:59:35.537Z",
+      "cheats": [
+        {
+          "projectName": "minishell",
+          "date": "2025-01-14T10:59:35.537Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "TEAM_BETRAYAL"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 126886,
+      "login": "alakin",
+      "image": "https://cdn.intra.42.fr/users/8c99fe6053ca32e1e34b58ff4dc2deec/alakin.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2024-12-23T10:16:09.367Z",
+      "cheats": [
+        {
+          "projectName": "ft_transcendence",
+          "date": "2024-12-23T10:16:09.367Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "TEAM_BETRAYAL"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 126581,
+      "login": "aderviso",
+      "image": "https://cdn.intra.42.fr/users/d81cb12a940a04eca363c933f063126d/aderviso.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2024-12-23T10:16:09.266Z",
+      "cheats": [
+        {
+          "projectName": "ft_transcendence",
+          "date": "2024-12-23T10:16:09.266Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "TEAM_BETRAYAL"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 126447,
+      "login": "omtekbas",
+      "image": "https://cdn.intra.42.fr/users/0d2e5a228d12cb865e5e5e42a95ad36d/omtekbas.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2024-12-23T10:16:09.157Z",
+      "cheats": [
+        {
+          "projectName": "ft_transcendence",
+          "date": "2024-12-23T10:16:09.157Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "TEAM_BETRAYAL"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 126389,
+      "login": "mkaraden",
+      "image": "https://cdn.intra.42.fr/users/f4a5a2886243e7c94c92889b42ab100c/mkaraden.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2024-12-23T10:16:09.061Z",
+      "cheats": [
+        {
+          "projectName": "ft_transcendence",
+          "date": "2024-12-23T10:16:09.061Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "TEAM_BETRAYAL"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 126632,
+      "login": "hece",
+      "image": "https://cdn.intra.42.fr/users/576cee382519a2c6695a2e1c2e0895e2/hece.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2024-11-14T09:39:48.164Z",
+      "cheats": [
+        {
+          "projectName": "ft_transcendence",
+          "date": "2024-11-14T09:39:48.164Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "TEAM_BETRAYAL"
+      ],
+      "campus": "Kocaeli",
+      "isPatron": false
+    },
+    {
+      "id": 107639,
+      "login": "hakilic",
+      "image": "https://cdn.intra.42.fr/users/6a8ded7c7e1827c23ef639b1a2e05cee/hakilic.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2024-11-14T09:39:20.888Z",
+      "cheats": [
+        {
+          "projectName": "ft_transcendence",
+          "date": "2024-11-14T09:39:20.888Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "TEAM_BETRAYAL"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 131521,
+      "login": "sustmas",
+      "image": "https://cdn.intra.42.fr/users/29c6ebbe3be61513617f651f34ded660/sustmas.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2024-11-14T07:55:11.126Z",
+      "cheats": [
+        {
+          "projectName": "ft_irc",
+          "date": "2024-11-14T07:55:11.126Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "TEAM_BETRAYAL"
+      ],
+      "campus": "Kocaeli",
+      "isPatron": false
+    },
+    {
+      "id": 131288,
+      "login": "adunal",
+      "image": "https://cdn.intra.42.fr/users/c2c3a9199a5c41a010a27f243d150b51/adunal.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2024-11-14T07:55:11.020Z",
+      "cheats": [
+        {
+          "projectName": "ft_irc",
+          "date": "2024-11-14T07:55:11.020Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "TEAM_BETRAYAL"
+      ],
+      "campus": "Kocaeli",
+      "isPatron": false
+    },
+    {
+      "id": 107848,
+      "login": "msaydam",
+      "image": "https://cdn.intra.42.fr/users/b5583239ba00cb4534390322b84710d4/msaydam.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2024-11-14T07:52:37.969Z",
+      "cheats": [
+        {
+          "projectName": "ft_transcendence",
+          "date": "2024-11-14T07:52:37.969Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "TEAM_BETRAYAL"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 107807,
+      "login": "bkayan",
+      "image": "https://cdn.intra.42.fr/users/6cde9a938ef52325783775e83fe85be5/bkayan.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2024-11-14T07:52:37.865Z",
+      "cheats": [
+        {
+          "projectName": "ft_transcendence",
+          "date": "2024-11-14T07:52:37.865Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "TEAM_BETRAYAL"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 96519,
+      "login": "honer",
+      "image": "https://cdn.intra.42.fr/users/87ab0f002720cab32b3569db3b04ec2f/honer.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2024-11-14T07:52:37.760Z",
+      "cheats": [
+        {
+          "projectName": "ft_transcendence",
+          "date": "2024-11-14T07:52:37.760Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "TEAM_BETRAYAL"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 109785,
+      "login": "sekahram",
+      "image": "https://cdn.intra.42.fr/users/308755ccb1e260cc91d8582e6ee6b1f3/sekahram.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2024-11-14T07:52:37.647Z",
+      "cheats": [
+        {
+          "projectName": "ft_transcendence",
+          "date": "2024-11-14T07:52:37.647Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "TEAM_BETRAYAL"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 164075,
+      "login": "egolboyu",
+      "image": "https://cdn.intra.42.fr/users/e7a2f0bba4bbeea0b8641696c75a9c46/egolboyu.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2024-11-14T07:51:47.613Z",
+      "cheats": [
+        {
+          "projectName": "minishell",
+          "date": "2024-11-14T07:51:47.613Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "TEAM_BETRAYAL"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 163864,
+      "login": "zpolat",
+      "image": "https://cdn.intra.42.fr/users/6da323c6bc6b380b2ae3ae298f452114/zpolat.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2024-11-14T07:51:47.497Z",
+      "cheats": [
+        {
+          "projectName": "minishell",
+          "date": "2024-11-14T07:51:47.497Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "TEAM_BETRAYAL"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 198222,
+      "login": "malemdar",
+      "image": "https://cdn.intra.42.fr/users/60668dd1000a4140cffef8ccd876f972/malemdar.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2024-09-05T19:41:31.609Z",
+      "cheats": [
+        {
+          "projectName": "C Piscine C 07",
+          "date": "2024-09-05T19:41:31.609Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "SPEEDRUN"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 191268,
+      "login": "beyilmaz",
+      "image": "https://cdn.intra.42.fr/users/1cefa4ca170dd201c1635beb98ae66d0/beyilmaz.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2024-07-25T14:10:00.769Z",
+      "cheats": [
+        {
+          "projectName": "C Piscine C 07",
+          "date": "2024-07-25T14:10:00.769Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "SPEEDRUN"
+      ],
+      "campus": "Kocaeli",
+      "isPatron": false
+    },
+    {
+      "id": 96603,
+      "login": "akirmizi",
+      "image": "https://cdn.intra.42.fr/users/dd1a3c4e769b2c32a0133b58b591b0c2/akirmizi.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2023-09-29T06:50:15.390Z",
+      "cheats": [
+        {
+          "projectName": "minishell",
+          "date": "2023-09-29T06:50:15.390Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "TEAM_BETRAYAL"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 100485,
+      "login": "okavak",
+      "image": "https://cdn.intra.42.fr/users/e72d7d855533e5258e61c6c735f9aa4d/okavak.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2023-09-25T08:25:33.764Z",
+      "cheats": [
+        {
+          "projectName": "minishell",
+          "date": "2023-09-25T08:25:33.764Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "TEAM_BETRAYAL"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 136481,
+      "login": "msolak",
+      "image": "https://cdn.intra.42.fr/users/c52924245bf55f53cdc06a7316d3a785/msolak.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2023-09-25T08:23:12.916Z",
+      "cheats": [
+        {
+          "projectName": "minishell",
+          "date": "2023-09-25T08:23:12.916Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "TEAM_BETRAYAL"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 102943,
+      "login": "fguney",
+      "image": "https://cdn.intra.42.fr/users/949bdcf74aa12c59b7a6134babe9b233/fguney.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2023-09-18T08:19:51.478Z",
+      "cheats": [
+        {
+          "projectName": "cub3d",
+          "date": "2023-09-18T08:19:51.478Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "TEAM_BETRAYAL"
+      ],
+      "campus": "Kocaeli",
+      "isPatron": false
+    },
+    {
+      "id": 102942,
+      "login": "ahguney",
+      "image": "https://cdn.intra.42.fr/users/a4293111fa77306cd4980326964ee1c8/ahguney.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2023-09-18T08:19:51.400Z",
+      "cheats": [
+        {
+          "projectName": "cub3d",
+          "date": "2023-09-18T08:19:51.400Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "TEAM_BETRAYAL"
+      ],
+      "campus": "Kocaeli",
+      "isPatron": false
+    },
+    {
+      "id": 131425,
+      "login": "egokeri",
+      "image": "https://cdn.intra.42.fr/users/165d0e10b98cc09253cb00ba2528287f/egokeri.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2023-09-18T07:23:46.609Z",
+      "cheats": [
+        {
+          "projectName": "Philosophers",
+          "date": "2023-09-18T07:23:46.609Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 164236,
+      "login": "omalikog",
+      "image": "https://cdn.intra.42.fr/users/49bc41effcb303183ba555f4d4574ce5/omalikog.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2023-09-15T10:19:33.307Z",
+      "cheats": [
+        {
+          "projectName": "C Piscine Exam 00",
+          "date": "2023-09-15T10:19:33.307Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "EXAM_FAIL",
+        "SPEEDRUN"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 136416,
+      "login": "segurbuz",
+      "image": "https://cdn.intra.42.fr/users/db391dff5b9b35a3c0cee918f08e2f53/segurbuz.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2023-09-14T13:33:22.374Z",
+      "cheats": [
+        {
+          "projectName": "Libft",
+          "date": "2023-09-14T13:33:22.374Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 107453,
+      "login": "mkorucu",
+      "image": "https://cdn.intra.42.fr/users/258fa4720356bc0f47e0274cde4fa0c7/mkorucu.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2023-09-12T17:02:45.629Z",
+      "cheats": [
+        {
+          "projectName": "minishell",
+          "date": "2023-09-12T17:02:45.629Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "TEAM_BETRAYAL"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 102558,
+      "login": "okurt",
+      "image": "https://cdn.intra.42.fr/users/33a45cd76513528ce4f47c6f28148ff6/okurt.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2023-09-11T09:10:58.937Z",
+      "cheats": [
+        {
+          "projectName": "minishell",
+          "date": "2023-09-11T09:10:58.937Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "TEAM_BETRAYAL"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 100702,
+      "login": "maltunan",
+      "image": "https://cdn.intra.42.fr/users/0beb4eba04b362b7eb475c39ef861be2/maltunan.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2023-09-11T09:10:45.696Z",
+      "cheats": [
+        {
+          "projectName": "minishell",
+          "date": "2023-09-11T09:10:45.696Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "TEAM_BETRAYAL"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 96611,
+      "login": "oaciz",
+      "image": "https://cdn.intra.42.fr/users/4af3ea77c8d0af46303a9fe9856b0176/oaciz.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2023-09-11T09:10:30.004Z",
+      "cheats": [
+        {
+          "projectName": "minishell",
+          "date": "2023-09-11T09:10:30.004Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "TEAM_BETRAYAL"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 102911,
+      "login": "ebilici",
+      "image": "https://cdn.intra.42.fr/users/edf758ad1d9a5dfd50dac1cf754131ff/ebilici.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2023-09-04T07:53:08.927Z",
+      "cheats": [
+        {
+          "projectName": "CPP Module 04",
+          "date": "2023-09-04T07:53:08.927Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "TEAM_BETRAYAL"
+      ],
+      "campus": "Kocaeli",
+      "isPatron": false
+    },
+    {
+      "id": 107712,
+      "login": "ayildiri",
+      "image": "https://cdn.intra.42.fr/users/6b1e6355e2c86e785819065d146969ce/ayildiri.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2023-09-04T07:53:08.114Z",
+      "cheats": [
+        {
+          "projectName": "Born2beroot",
+          "date": "2023-09-04T07:53:08.114Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [],
+      "campus": "Kocaeli",
+      "isPatron": false
+    },
+    {
+      "id": 102581,
+      "login": "iustoglu",
+      "image": "https://cdn.intra.42.fr/users/c72f74af72423ff7cb3eb7e461c37630/iustoglu.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2023-08-28T16:08:48.559Z",
+      "cheats": [
+        {
+          "projectName": "minishell",
+          "date": "2023-08-28T16:08:48.559Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "TEAM_BETRAYAL"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 96646,
+      "login": "kcetin",
+      "image": "https://cdn.intra.42.fr/users/94acfd583a68f3c88d961787e88e97cc/kcetin.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2023-08-28T16:08:01.510Z",
+      "cheats": [
+        {
+          "projectName": "ft_irc",
+          "date": "2023-08-28T16:08:01.510Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "TEAM_BETRAYAL"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 131053,
+      "login": "syavuz",
+      "image": "https://cdn.intra.42.fr/users/a65327bcf07b7ee1e9b51ae18be38409/syavuz.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2023-08-27T09:14:42.255Z",
+      "cheats": [
+        {
+          "projectName": "Libft",
+          "date": "2023-08-27T09:14:42.255Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "WEEKEND_WARRIOR"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 100714,
+      "login": "fpektas",
+      "image": "https://cdn.intra.42.fr/users/7da3842277842e2715967359276fb2b6/fpektas.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2023-08-27T09:14:28.610Z",
+      "cheats": [
+        {
+          "projectName": "Philosophers",
+          "date": "2023-08-27T09:14:28.610Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "WEEKEND_WARRIOR"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 107847,
+      "login": "stepe",
+      "image": "https://cdn.intra.42.fr/users/9c4b500cf4f197dadb5b3aad537152ac/stepe.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2023-08-25T13:04:39.060Z",
+      "cheats": [
+        {
+          "projectName": "Philosophers",
+          "date": "2023-08-25T13:04:39.060Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 148251,
+      "login": "osdemirh",
+      "image": "https://cdn.intra.42.fr/users/888136db50620b8f06afc4903b203c25/osdemirh.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2023-04-25T18:04:38.958Z",
+      "cheats": [
+        {
+          "projectName": "C Piscine Rush 00",
+          "date": "2023-04-25T18:04:38.958Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "SPEEDRUN"
+      ],
+      "campus": "Kocaeli",
+      "isPatron": false
+    },
+    {
+      "id": 148186,
+      "login": "alikaya",
+      "image": "https://cdn.intra.42.fr/users/ace887e4986006a6cb7e860935577e8e/alikaya.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2023-04-25T18:04:38.880Z",
+      "cheats": [
+        {
+          "projectName": "C Piscine Rush 00",
+          "date": "2023-04-25T18:04:38.880Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "SPEEDRUN"
+      ],
+      "campus": "Kocaeli",
+      "isPatron": false
+    },
+    {
+      "id": 148173,
+      "login": "dsahingo",
+      "image": "https://cdn.intra.42.fr/users/3ff345605bbc90ec89e561ee3869f375/dsahingo.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2023-04-25T18:04:38.820Z",
+      "cheats": [
+        {
+          "projectName": "C Piscine Rush 00",
+          "date": "2023-04-25T18:04:38.820Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "SPEEDRUN"
+      ],
+      "campus": "Kocaeli",
+      "isPatron": false
+    },
+    {
+      "id": 148194,
+      "login": "mbozkus",
+      "image": "https://cdn.intra.42.fr/users/0e7250a347a194fb4ad49d60d9d60cf0/mbozkus.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2023-04-25T18:04:10.306Z",
+      "cheats": [
+        {
+          "projectName": "C Piscine Rush 00",
+          "date": "2023-04-25T18:04:10.306Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "SPEEDRUN"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 148170,
+      "login": "serikogl",
+      "image": "https://cdn.intra.42.fr/users/a800ee6d17b10ec749e2b25d042b1148/serikogl.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2023-04-25T18:04:10.242Z",
+      "cheats": [
+        {
+          "projectName": "C Piscine Rush 00",
+          "date": "2023-04-25T18:04:10.242Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "SPEEDRUN"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 147352,
+      "login": "mkucukak",
+      "image": "https://cdn.intra.42.fr/users/c26cf7daee34b4003bedf720e87584ab/mkucukak.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2023-04-25T18:04:10.180Z",
+      "cheats": [
+        {
+          "projectName": "C Piscine Rush 00",
+          "date": "2023-04-25T18:04:10.180Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "SPEEDRUN"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 148260,
+      "login": "yturkile",
+      "image": "https://cdn.intra.42.fr/users/1c148c1770155189a2715dea3eec3b50/yturkile.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2023-04-25T18:04:09.734Z",
+      "cheats": [
+        {
+          "projectName": "C Piscine Rush 00",
+          "date": "2023-04-25T18:04:09.734Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "SPEEDRUN"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 148145,
+      "login": "ayavuz",
+      "image": "https://cdn.intra.42.fr/users/2c73bc42fc36c8e43fb2e871708a925b/ayavuz.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2023-04-25T18:04:09.654Z",
+      "cheats": [
+        {
+          "projectName": "C Piscine Rush 00",
+          "date": "2023-04-25T18:04:09.654Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "SPEEDRUN"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 147409,
+      "login": "mkizilde",
+      "image": "https://cdn.intra.42.fr/users/fd2b3b726459bc57389d31af16bfa08c/mkizilde.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2023-04-25T18:04:09.581Z",
+      "cheats": [
+        {
+          "projectName": "C Piscine Rush 00",
+          "date": "2023-04-25T18:04:09.581Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "SPEEDRUN"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 147500,
+      "login": "halpagut",
+      "image": "https://cdn.intra.42.fr/users/765e66a1ec36ef1c5182b240da904c87/halpagut.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2023-04-25T18:04:09.140Z",
+      "cheats": [
+        {
+          "projectName": "C Piscine Rush 00",
+          "date": "2023-04-25T18:04:09.140Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "SPEEDRUN"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 147453,
+      "login": "btinaz",
+      "image": "https://cdn.intra.42.fr/users/9caf719a48339fef767f12b2db3da698/btinaz.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2023-04-25T18:04:09.078Z",
+      "cheats": [
+        {
+          "projectName": "C Piscine Rush 00",
+          "date": "2023-04-25T18:04:09.078Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "SPEEDRUN"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 147484,
+      "login": "yeyilmaz",
+      "image": "https://cdn.intra.42.fr/users/a795fcd437389d64dc8758245000c4ef/yeyilmaz.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2023-04-25T18:04:08.973Z",
+      "cheats": [
+        {
+          "projectName": "C Piscine Rush 00",
+          "date": "2023-04-25T18:04:08.973Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "SPEEDRUN"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 148040,
+      "login": "tcetin",
+      "image": "https://cdn.intra.42.fr/users/5baff610fc0a3605d1c99e20e2456c7d/tcetin.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2023-04-25T18:04:08.546Z",
+      "cheats": [
+        {
+          "projectName": "C Piscine Rush 00",
+          "date": "2023-04-25T18:04:08.546Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "SPEEDRUN"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 147534,
+      "login": "odonmez",
+      "image": "https://cdn.intra.42.fr/users/955e874adfe7f5ee7636aa000f759748/odonmez.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2023-04-25T18:04:08.478Z",
+      "cheats": [
+        {
+          "projectName": "C Piscine Rush 00",
+          "date": "2023-04-25T18:04:08.478Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "SPEEDRUN"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 147364,
+      "login": "scabir",
+      "image": "https://cdn.intra.42.fr/users/cbae71fe16bb65c82b3f8332776de7df/scabir.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2023-04-25T18:04:08.418Z",
+      "cheats": [
+        {
+          "projectName": "C Piscine Rush 00",
+          "date": "2023-04-25T18:04:08.418Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "SPEEDRUN"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 148084,
+      "login": "ahyildiz",
+      "image": "https://cdn.intra.42.fr/users/3d512230ec8d826ee547b5505a852f0c/ahyildiz.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2023-04-25T18:04:07.945Z",
+      "cheats": [
+        {
+          "projectName": "C Piscine Rush 00",
+          "date": "2023-04-25T18:04:07.945Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "SPEEDRUN"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 147384,
+      "login": "biceylan",
+      "image": "https://cdn.intra.42.fr/users/82fd9b9b858eceb61750a47ab2d86937/biceylan.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2023-04-25T18:04:07.863Z",
+      "cheats": [
+        {
+          "projectName": "C Piscine Rush 00",
+          "date": "2023-04-25T18:04:07.863Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "SPEEDRUN"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 147374,
+      "login": "nikaya",
+      "image": "https://cdn.intra.42.fr/users/a898ae0d6ed26807b370b1ca2a2574d8/nikaya.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2023-04-25T18:04:07.788Z",
+      "cheats": [
+        {
+          "projectName": "C Piscine Rush 00",
+          "date": "2023-04-25T18:04:07.788Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "SPEEDRUN"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 148222,
+      "login": "honen",
+      "image": "https://cdn.intra.42.fr/users/aec5c59ef5925b5610a36b12d7139d7e/honen.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2023-04-25T17:53:37.282Z",
+      "cheats": [
+        {
+          "projectName": "C Piscine Rush 00",
+          "date": "2023-04-25T17:53:37.282Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "SPEEDRUN"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 147469,
+      "login": "mecan",
+      "image": "https://cdn.intra.42.fr/users/9699f6dca00de5a5528a9b54e97791b7/mecan.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2023-04-25T17:53:37.218Z",
+      "cheats": [
+        {
+          "projectName": "C Piscine Rush 00",
+          "date": "2023-04-25T17:53:37.218Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "SPEEDRUN"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 147336,
+      "login": "soksak",
+      "image": "https://cdn.intra.42.fr/users/c872d291dbc4ae5206d16064642eacf6/soksak.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2023-04-25T17:53:37.154Z",
+      "cheats": [
+        {
+          "projectName": "C Piscine Rush 00",
+          "date": "2023-04-25T17:53:37.154Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "SPEEDRUN"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 131205,
+      "login": "edurmus",
+      "image": "https://cdn.intra.42.fr/users/ec9a9c98a532675ed0e2b9274048e6c2/edurmus.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2023-03-23T14:13:17.086Z",
+      "cheats": [
+        {
+          "projectName": "ft_printf",
+          "date": "2023-03-23T14:13:17.086Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [],
+      "campus": "Kocaeli",
+      "isPatron": false
+    },
+    {
+      "id": 143496,
+      "login": "barelcik",
+      "image": "https://cdn.intra.42.fr/users/74935f286dc0cfef3f29cfd439102631/barelcik.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2023-02-26T12:16:05.572Z",
+      "cheats": [
+        {
+          "projectName": "C Piscine C 05",
+          "date": "2023-02-26T12:16:05.572Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "WEEKEND_WARRIOR",
+        "SPEEDRUN"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 100737,
+      "login": "zaltinis",
+      "image": "https://cdn.intra.42.fr/users/c8a489f7ed9546b3975cc8d8df22eda8/zaltinis.jpeg",
+      "cheatCount": 1,
+      "lastCheatDate": "2022-04-06T08:05:58.537Z",
+      "cheats": [
+        {
+          "projectName": "C Piscine Exam 00",
+          "date": "2022-04-06T08:05:58.537Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "EXAM_FAIL",
+        "SPEEDRUN"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    },
+    {
+      "id": 99185,
+      "login": "yukas",
+      "image": "https://cdn.intra.42.fr/users/3e6db559f5778b41f2632c495ba7f8f6/yukas.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2021-10-25T09:18:18.698Z",
+      "cheats": [
+        {
+          "projectName": "C Piscine Rush 00",
+          "date": "2021-10-25T09:18:18.698Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "SPEEDRUN"
+      ],
+      "campus": "Kocaeli",
+      "isPatron": false
+    },
+    {
+      "id": 89571,
+      "login": "armaxima",
+      "image": "https://cdn.intra.42.fr/users/9304150496c457c87ffb8ac2f52d849f/armaxima.jpg",
+      "cheatCount": 1,
+      "lastCheatDate": "2021-06-23T18:42:50.988Z",
+      "cheats": [
+        {
+          "projectName": "C Piscine C 10",
+          "date": "2021-06-23T18:42:50.988Z",
+          "mark": -42
+        }
+      ],
+      "achievements": [
+        "SPEEDRUN",
+        "FIRST_BLOOD"
+      ],
+      "campus": "Istanbul",
+      "isPatron": false
+    }
+  ]
+}

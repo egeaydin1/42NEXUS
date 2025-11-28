@@ -1,0 +1,2505 @@
+{
+  "lastUpdated": 1764370688077,
+  "nextPage": 1,
+  "users": [
+    {
+      "id": 168726,
+      "login": "moztop",
+      "image": "https://cdn.intra.42.fr/users/e95182ea994db00f1ec6e0a672aa1022/moztop.jpg",
+      "blackholeDate": "2025-07-08T06:42:00.000Z",
+      "daysRemaining": -143
+    },
+    {
+      "id": 168567,
+      "login": "beyildiz",
+      "image": "https://cdn.intra.42.fr/users/234e08104b9d4c379448e70234482ba9/beyildiz.jpg",
+      "blackholeDate": "2025-07-08T06:42:00.000Z",
+      "daysRemaining": -143
+    },
+    {
+      "id": 143576,
+      "login": "ayirmili",
+      "image": "https://cdn.intra.42.fr/users/66bb385c14a4d8c6655ee7fec9756343/ayirmili.jpg",
+      "blackholeDate": "2025-07-14T06:42:00.000Z",
+      "daysRemaining": -137
+    },
+    {
+      "id": 168545,
+      "login": "emyildir",
+      "image": "https://cdn.intra.42.fr/users/b571d7e533875a2f3f9d4dc489edfa01/emyildir.jpg",
+      "blackholeDate": "2025-07-17T06:42:00.000Z",
+      "daysRemaining": -134
+    },
+    {
+      "id": 143137,
+      "login": "akaltine",
+      "image": "https://cdn.intra.42.fr/users/ee5435a93790f83d82cd5bc37327aff0/akaltine.jpg",
+      "blackholeDate": "2025-08-23T06:42:00.000Z",
+      "daysRemaining": -97
+    },
+    {
+      "id": 157032,
+      "login": "fgumusay",
+      "image": "https://cdn.intra.42.fr/users/64f5ef2471cb062f10dea677ab23ecb3/fgumusay.jpg",
+      "blackholeDate": "2025-09-05T06:42:00.000Z",
+      "daysRemaining": -84
+    },
+    {
+      "id": 142840,
+      "login": "ahtuncay",
+      "image": "https://cdn.intra.42.fr/users/1a21f89c14b09e1b87a8f0bbbd80f38b/ahtuncay.jpg",
+      "blackholeDate": "2025-09-06T06:42:00.000Z",
+      "daysRemaining": -83
+    },
+    {
+      "id": 142910,
+      "login": "myerturk",
+      "image": "https://cdn.intra.42.fr/users/32ca9be0645dced71548d05830706c2c/myerturk.jpg",
+      "blackholeDate": "2025-09-11T06:42:00.000Z",
+      "daysRemaining": -78
+    },
+    {
+      "id": 157165,
+      "login": "ndogan",
+      "image": "https://cdn.intra.42.fr/users/900299a230ec7130812e9443d3dafdc1/ndogan.jpg",
+      "blackholeDate": "2025-09-15T06:42:00.000Z",
+      "daysRemaining": -74
+    },
+    {
+      "id": 142861,
+      "login": "cecayir",
+      "image": "https://cdn.intra.42.fr/users/1ec83db90279a565ddbd915735a2fff8/cecayir.jpg",
+      "blackholeDate": "2025-09-18T06:42:00.000Z",
+      "daysRemaining": -71
+    },
+    {
+      "id": 156353,
+      "login": "taltay",
+      "image": "https://cdn.intra.42.fr/users/a184498d79e20f29521f68de56ed4cc3/taltay.jpg",
+      "blackholeDate": "2025-09-27T06:42:00.000Z",
+      "daysRemaining": -62
+    },
+    {
+      "id": 164050,
+      "login": "yunozdem",
+      "image": "https://cdn.intra.42.fr/users/0faa88146b430e44b344d523b6632947/yunozdem.jpg",
+      "blackholeDate": "2025-09-28T06:42:00.000Z",
+      "daysRemaining": -61
+    },
+    {
+      "id": 191287,
+      "login": "htekdemi",
+      "image": "https://cdn.intra.42.fr/users/a6f5b9b84013bb6443f1b9820b2bc04f/htekdemi.jpg",
+      "blackholeDate": "2025-09-29T06:42:00.000Z",
+      "daysRemaining": -60
+    },
+    {
+      "id": 175879,
+      "login": "oakyol",
+      "image": "https://cdn.intra.42.fr/users/0f50d5b9710d183ecce54c2ecd5aa496/oakyol.jpg",
+      "blackholeDate": "2025-09-30T06:42:00.000Z",
+      "daysRemaining": -59
+    },
+    {
+      "id": 168711,
+      "login": "nkarabul",
+      "image": "https://cdn.intra.42.fr/users/6a3e8af9dec17aecbf4eb9f53604c228/nkarabul.jpg",
+      "blackholeDate": "2025-10-01T06:42:00.000Z",
+      "daysRemaining": -58
+    },
+    {
+      "id": 191783,
+      "login": "iekmen",
+      "image": "https://cdn.intra.42.fr/users/6228a28bcf7303c9c3f24255283a2946/iekmen.jpg",
+      "blackholeDate": "2025-10-02T06:42:00.000Z",
+      "daysRemaining": -57
+    },
+    {
+      "id": 191239,
+      "login": "reosma",
+      "image": "https://cdn.intra.42.fr/users/5c9e3cb917d3635e035ee82c5aa1b078/reosma.jpg",
+      "blackholeDate": "2025-10-02T06:42:00.000Z",
+      "daysRemaining": -57
+    },
+    {
+      "id": 168602,
+      "login": "apalaz",
+      "image": "https://cdn.intra.42.fr/users/b925f0c244dc7d11ad0927a84459092d/apalaz.jpg",
+      "blackholeDate": "2025-10-03T06:42:00.000Z",
+      "daysRemaining": -56
+    },
+    {
+      "id": 175480,
+      "login": "sadinc",
+      "image": "https://cdn.intra.42.fr/users/7389d904a1e0f0f7d400d18ddf882a99/sadinc.jpg",
+      "blackholeDate": "2025-10-03T06:42:00.000Z",
+      "daysRemaining": -56
+    },
+    {
+      "id": 175892,
+      "login": "bgirgine",
+      "image": "https://cdn.intra.42.fr/users/e1f2ad8316e1f6b2280a309733d66855/bgirgine.jpg",
+      "blackholeDate": "2025-10-04T06:42:00.000Z",
+      "daysRemaining": -55
+    },
+    {
+      "id": 168502,
+      "login": "yant",
+      "image": "https://cdn.intra.42.fr/users/6e892a29c1d1c5c5cdd5e8213dc9ce02/yant.jpg",
+      "blackholeDate": "2025-10-04T06:42:00.000Z",
+      "daysRemaining": -55
+    },
+    {
+      "id": 168559,
+      "login": "doaltin",
+      "image": "https://cdn.intra.42.fr/users/592c7761c3feceeba79819b32b60aeff/doaltin.jpg",
+      "blackholeDate": "2025-10-05T06:42:00.000Z",
+      "daysRemaining": -54
+    },
+    {
+      "id": 168698,
+      "login": "syanak",
+      "image": "https://cdn.intra.42.fr/users/ad0d5ffa4df6c3627e9e4cc0d6eda8cf/syanak.jpg",
+      "blackholeDate": "2025-10-05T06:42:00.000Z",
+      "daysRemaining": -54
+    },
+    {
+      "id": 191257,
+      "login": "rispay-s",
+      "image": "https://cdn.intra.42.fr/users/95b499a37f2354bf72f5163916c7b2da/rispay-s.jpg",
+      "blackholeDate": "2025-10-05T06:42:00.000Z",
+      "daysRemaining": -54
+    },
+    {
+      "id": 191820,
+      "login": "smayti",
+      "image": "https://cdn.intra.42.fr/users/dd326708f0f093c908fdad6312171514/smayti.jpg",
+      "blackholeDate": "2025-10-06T06:42:00.000Z",
+      "daysRemaining": -53
+    },
+    {
+      "id": 191186,
+      "login": "asezgin",
+      "image": "https://cdn.intra.42.fr/users/ba317ae38daf50d69e2feabd547058f0/asezgin.jpg",
+      "blackholeDate": "2025-10-06T06:42:00.000Z",
+      "daysRemaining": -53
+    },
+    {
+      "id": 198649,
+      "login": "yuocak",
+      "image": "https://cdn.intra.42.fr/users/3b20a5fc7f8cb9c16124b7e766a39bba/yuocak.jpg",
+      "blackholeDate": "2025-10-06T06:42:00.000Z",
+      "daysRemaining": -53
+    },
+    {
+      "id": 198504,
+      "login": "merilhan",
+      "image": "https://cdn.intra.42.fr/users/5f2717f6ad4e6a74ed4b9dbfb381bb93/merilhan.jpg",
+      "blackholeDate": "2025-10-07T06:42:00.000Z",
+      "daysRemaining": -52
+    },
+    {
+      "id": 168546,
+      "login": "kaykin",
+      "image": "https://cdn.intra.42.fr/users/6ad16bf66a1153d91fd40d300dd0515b/kaykin.jpg",
+      "blackholeDate": "2025-10-08T06:42:00.000Z",
+      "daysRemaining": -51
+    },
+    {
+      "id": 164179,
+      "login": "muhademi",
+      "image": "https://cdn.intra.42.fr/users/db07e1587bee2df913116c1794b8f7f2/muhademi.jpg",
+      "blackholeDate": "2025-10-09T06:42:00.000Z",
+      "daysRemaining": -50
+    },
+    {
+      "id": 198469,
+      "login": "oozsipah",
+      "image": "https://cdn.intra.42.fr/users/6e1a3dfc601ff9eb8697eb0285ec3c8c/oozsipah.jpg",
+      "blackholeDate": "2025-10-10T06:42:00.000Z",
+      "daysRemaining": -49
+    },
+    {
+      "id": 142913,
+      "login": "mertcaki",
+      "image": "https://cdn.intra.42.fr/users/9c6e2fc06dd8c360286ddd80d49a2d82/mertcaki.jpg",
+      "blackholeDate": "2025-10-11T06:42:00.000Z",
+      "daysRemaining": -48
+    },
+    {
+      "id": 191203,
+      "login": "mayilmaz",
+      "image": "https://cdn.intra.42.fr/users/c4637aff63d204d6012812ba3a58bd7e/mayilmaz.jpg",
+      "blackholeDate": "2025-10-11T06:42:00.000Z",
+      "daysRemaining": -48
+    },
+    {
+      "id": 198586,
+      "login": "alermi",
+      "image": "https://cdn.intra.42.fr/users/40572af078d9699e3d2b9fc3650d2d1e/alermi.jpg",
+      "blackholeDate": "2025-10-11T06:42:00.000Z",
+      "daysRemaining": -48
+    },
+    {
+      "id": 198489,
+      "login": "aserbest",
+      "image": "https://cdn.intra.42.fr/users/9e7d2581a1b666afb2b1a57df7b910d6/aserbest.jpg",
+      "blackholeDate": "2025-10-11T06:42:00.000Z",
+      "daysRemaining": -48
+    },
+    {
+      "id": 142846,
+      "login": "buonturk",
+      "image": "https://cdn.intra.42.fr/users/32d24ddf557797fbf161d34870cadd29/buonturk.jpg",
+      "blackholeDate": "2025-10-14T06:42:00.000Z",
+      "daysRemaining": -45
+    },
+    {
+      "id": 197846,
+      "login": "obastug",
+      "image": "https://cdn.intra.42.fr/users/2630ecd264943fd72b826270e8b183f0/obastug.jpg",
+      "blackholeDate": "2025-10-14T06:42:00.000Z",
+      "daysRemaining": -45
+    },
+    {
+      "id": 191194,
+      "login": "aaycan",
+      "image": "https://cdn.intra.42.fr/users/cdeec1699335f0091fa832da574578d7/aaycan.jpg",
+      "blackholeDate": "2025-10-15T06:42:00.000Z",
+      "daysRemaining": -44
+    },
+    {
+      "id": 197881,
+      "login": "muokcan",
+      "image": "https://cdn.intra.42.fr/users/b82a2c35b766dfb4f066e9b0f47e71c7/muokcan.jpg",
+      "blackholeDate": "2025-10-15T06:42:00.000Z",
+      "daysRemaining": -44
+    },
+    {
+      "id": 168724,
+      "login": "ogokkaya",
+      "image": "https://cdn.intra.42.fr/users/36b4c88530ba22bcbf5a7b299723a954/ogokkaya.jpg",
+      "blackholeDate": "2025-10-16T06:42:00.000Z",
+      "daysRemaining": -43
+    },
+    {
+      "id": 191238,
+      "login": "meaydino",
+      "image": "https://cdn.intra.42.fr/users/37019aa4b82310ab59ef651e93ebaf22/meaydino.jpg",
+      "blackholeDate": "2025-10-16T06:42:00.000Z",
+      "daysRemaining": -43
+    },
+    {
+      "id": 157016,
+      "login": "osarikay",
+      "image": "https://cdn.intra.42.fr/users/4bbeec8eebdd4fbc859eae0c10892d94/osarikay.jpg",
+      "blackholeDate": "2025-10-17T06:42:00.000Z",
+      "daysRemaining": -42
+    },
+    {
+      "id": 197887,
+      "login": "merozcan",
+      "image": "https://cdn.intra.42.fr/users/e79bbe647d840692764dfb0cc22a6ad0/merozcan.jpg",
+      "blackholeDate": "2025-10-17T06:42:00.000Z",
+      "daysRemaining": -42
+    },
+    {
+      "id": 147336,
+      "login": "soksak",
+      "image": "https://cdn.intra.42.fr/users/c872d291dbc4ae5206d16064642eacf6/soksak.jpg",
+      "blackholeDate": "2025-10-18T06:42:00.000Z",
+      "daysRemaining": -41
+    },
+    {
+      "id": 126376,
+      "login": "itaskira",
+      "image": "https://cdn.intra.42.fr/users/9a918d46eb23ca7f53fc77f12933cff8/itaskira.jpg",
+      "blackholeDate": "2025-10-18T06:42:00.000Z",
+      "daysRemaining": -41
+    },
+    {
+      "id": 156192,
+      "login": "usisman",
+      "image": "https://cdn.intra.42.fr/users/b54d3e8167e2f7bbb57c1e42a48e30c2/usisman.jpg",
+      "blackholeDate": "2025-10-19T06:42:00.000Z",
+      "daysRemaining": -40
+    },
+    {
+      "id": 197795,
+      "login": "btuncer",
+      "image": "https://cdn.intra.42.fr/users/9260e9d95f4e40d7b7f5f5461a207adb/btuncer.jpg",
+      "blackholeDate": "2025-10-20T06:42:00.000Z",
+      "daysRemaining": -39
+    },
+    {
+      "id": 163674,
+      "login": "rutatar",
+      "image": "https://cdn.intra.42.fr/users/e20bbcc34b3ff0ae1e0d74345cd4d589/rutatar.jpg",
+      "blackholeDate": "2025-10-21T06:42:00.000Z",
+      "daysRemaining": -38
+    },
+    {
+      "id": 163649,
+      "login": "darikan",
+      "image": "https://cdn.intra.42.fr/users/56a0c14cd99feae3b6c374fbfa97be2e/darikan.jpg",
+      "blackholeDate": "2025-10-22T06:42:00.000Z",
+      "daysRemaining": -37
+    },
+    {
+      "id": 175880,
+      "login": "mecavus",
+      "image": "https://cdn.intra.42.fr/users/9e5f1dbd11fdee3ac737229df83bf40b/mecavus.jpg",
+      "blackholeDate": "2025-10-22T06:42:00.000Z",
+      "daysRemaining": -37
+    },
+    {
+      "id": 191711,
+      "login": "sedemir",
+      "image": "https://cdn.intra.42.fr/users/e8c464a2ca381551c0b716ab831eb11d/sedemir.jpg",
+      "blackholeDate": "2025-10-22T06:42:00.000Z",
+      "daysRemaining": -37
+    },
+    {
+      "id": 198604,
+      "login": "zuonen",
+      "image": "https://cdn.intra.42.fr/users/18c1ac017a61bae3897adc66ae25d2f2/zuonen.jpg",
+      "blackholeDate": "2025-10-23T06:42:00.000Z",
+      "daysRemaining": -36
+    },
+    {
+      "id": 163751,
+      "login": "doerkova",
+      "image": "https://cdn.intra.42.fr/users/5488e2795fd03d1aa1368df9cfd08000/doerkova.jpg",
+      "blackholeDate": "2025-10-24T06:42:00.000Z",
+      "daysRemaining": -35
+    },
+    {
+      "id": 191853,
+      "login": "egokce",
+      "image": "https://cdn.intra.42.fr/users/714ee906e56023af6e7c80da35860a6b/egokce.jpg",
+      "blackholeDate": "2025-10-25T06:42:00.000Z",
+      "daysRemaining": -34
+    },
+    {
+      "id": 197842,
+      "login": "saincesu",
+      "image": "https://cdn.intra.42.fr/users/a28ef885e8e0f4c139629174b4889ac1/saincesu.jpg",
+      "blackholeDate": "2025-10-25T06:42:00.000Z",
+      "daysRemaining": -34
+    },
+    {
+      "id": 175539,
+      "login": "muhaoz",
+      "image": "https://cdn.intra.42.fr/users/45a8548138d51806776641ac6d53a4d9/muhaoz.jpg",
+      "blackholeDate": "2025-10-26T06:42:00.000Z",
+      "daysRemaining": -33
+    },
+    {
+      "id": 198652,
+      "login": "gdemirci",
+      "image": "https://cdn.intra.42.fr/users/28a70631abf2ab4c31aee98f4a464819/gdemirci.jpg",
+      "blackholeDate": "2025-10-27T06:42:00.000Z",
+      "daysRemaining": -32
+    },
+    {
+      "id": 198507,
+      "login": "bpancar",
+      "image": "https://cdn.intra.42.fr/users/dcc7ca8c2c04a76308dcbc06f8b93170/bpancar.jpg",
+      "blackholeDate": "2025-10-27T06:42:00.000Z",
+      "daysRemaining": -32
+    },
+    {
+      "id": 163740,
+      "login": "abakirca",
+      "image": "https://cdn.intra.42.fr/users/64e7cb07841f3016f98eaa8ebc38df6d/abakirca.jpg",
+      "blackholeDate": "2025-10-28T06:42:00.000Z",
+      "daysRemaining": -31
+    },
+    {
+      "id": 175531,
+      "login": "makboga",
+      "image": "https://cdn.intra.42.fr/users/6667876c6b0ebc0857e9a309deed4309/makboga.jpg",
+      "blackholeDate": "2025-10-28T06:42:00.000Z",
+      "daysRemaining": -31
+    },
+    {
+      "id": 198656,
+      "login": "esir",
+      "image": "https://cdn.intra.42.fr/users/7b7b119c759af570afd32693b70e3305/esir.jpg",
+      "blackholeDate": "2025-10-28T06:42:00.000Z",
+      "daysRemaining": -31
+    },
+    {
+      "id": 164153,
+      "login": "iozmen",
+      "image": "https://cdn.intra.42.fr/users/786091fad542a8528446bb8f842b6ae3/iozmen.jpg",
+      "blackholeDate": "2025-10-29T06:42:00.000Z",
+      "daysRemaining": -30
+    },
+    {
+      "id": 168780,
+      "login": "bsen",
+      "image": "https://cdn.intra.42.fr/users/96606bd430347f1780977467556e1ec8/bsen.jpg",
+      "blackholeDate": "2025-10-29T06:42:00.000Z",
+      "daysRemaining": -30
+    },
+    {
+      "id": 198086,
+      "login": "musyilma",
+      "image": "https://cdn.intra.42.fr/users/91fd4e350f58ac98608290e8f73d05f5/musyilma.jpg",
+      "blackholeDate": "2025-10-29T06:42:00.000Z",
+      "daysRemaining": -30
+    },
+    {
+      "id": 163715,
+      "login": "abostano",
+      "image": "https://cdn.intra.42.fr/users/edf5c147db83482a0cd134e262b8302d/abostano.jpg",
+      "blackholeDate": "2025-10-30T06:42:00.000Z",
+      "daysRemaining": -29
+    },
+    {
+      "id": 168667,
+      "login": "kcevik",
+      "image": "https://cdn.intra.42.fr/users/ca2acedbb53e6d3fea64621a3a5c1448/kcevik.jpg",
+      "blackholeDate": "2025-10-30T06:42:00.000Z",
+      "daysRemaining": -29
+    },
+    {
+      "id": 164114,
+      "login": "huozturk",
+      "image": "https://cdn.intra.42.fr/users/c8ed7dd206d2165ec93003a07b6b9616/huozturk.jpg",
+      "blackholeDate": "2025-10-30T06:42:00.000Z",
+      "daysRemaining": -29
+    },
+    {
+      "id": 157110,
+      "login": "mkuner",
+      "image": "https://cdn.intra.42.fr/users/695c15679042f33ad3d2926a56e76dfc/mkuner.jpg",
+      "blackholeDate": "2025-10-30T06:42:00.000Z",
+      "daysRemaining": -29
+    },
+    {
+      "id": 191419,
+      "login": "ysoyturk",
+      "image": "https://cdn.intra.42.fr/users/7db6b05659454625e5389fee806f798e/ysoyturk.jpg",
+      "blackholeDate": "2025-10-30T06:42:00.000Z",
+      "daysRemaining": -29
+    },
+    {
+      "id": 191444,
+      "login": "megul",
+      "image": "https://cdn.intra.42.fr/users/d71d8ecde12aa123e44a6b63d9c7ff68/megul.jpg",
+      "blackholeDate": "2025-10-30T06:42:00.000Z",
+      "daysRemaining": -29
+    },
+    {
+      "id": 148105,
+      "login": "ekose",
+      "image": "https://cdn.intra.42.fr/users/cd1b4977cfbc4a18e9fa3ad238d1fd3f/ekose.jpg",
+      "blackholeDate": "2025-10-31T06:42:00.000Z",
+      "daysRemaining": -28
+    },
+    {
+      "id": 164123,
+      "login": "hasivaci",
+      "image": "https://cdn.intra.42.fr/users/eea609de0c8ace611ae4c3a504c8e05a/hasivaci.jpg",
+      "blackholeDate": "2025-10-31T06:42:00.000Z",
+      "daysRemaining": -28
+    },
+    {
+      "id": 156285,
+      "login": "iaktas",
+      "image": "https://cdn.intra.42.fr/users/9fa2ec4a428c91464ce8bf3a284faa48/iaktas.jpg",
+      "blackholeDate": "2025-10-31T06:42:00.000Z",
+      "daysRemaining": -28
+    },
+    {
+      "id": 191829,
+      "login": "beergin",
+      "image": "https://cdn.intra.42.fr/users/85e7888cc48ec63c23ddd51da5d2c8e5/beergin.jpg",
+      "blackholeDate": "2025-10-31T06:42:00.000Z",
+      "daysRemaining": -28
+    },
+    {
+      "id": 156342,
+      "login": "ahmsanli",
+      "image": "https://cdn.intra.42.fr/users/898cb82e33f90c7dd04e748bc2ec5bff/ahmsanli.jpg",
+      "blackholeDate": "2025-11-01T06:42:00.000Z",
+      "daysRemaining": -27
+    },
+    {
+      "id": 164233,
+      "login": "seemil",
+      "image": "https://cdn.intra.42.fr/users/a1c7f81d1725099297ce0c0d54e570b0/seemil.jpg",
+      "blackholeDate": "2025-11-01T06:42:00.000Z",
+      "daysRemaining": -27
+    },
+    {
+      "id": 191759,
+      "login": "nuciftci",
+      "image": "https://cdn.intra.42.fr/users/88a78e1418dc88d90fc4f9084be76801/nuciftci.jpg",
+      "blackholeDate": "2025-11-01T06:42:00.000Z",
+      "daysRemaining": -27
+    },
+    {
+      "id": 198257,
+      "login": "skalkan",
+      "image": "https://cdn.intra.42.fr/users/f02b1ff1832dec925fff01b824580af2/skalkan.jpg",
+      "blackholeDate": "2025-11-01T06:42:00.000Z",
+      "daysRemaining": -27
+    },
+    {
+      "id": 164182,
+      "login": "ytop",
+      "image": "https://cdn.intra.42.fr/users/d561d421e1b16400706944f5644daf68/ytop.jpg",
+      "blackholeDate": "2025-11-02T06:42:00.000Z",
+      "daysRemaining": -26
+    },
+    {
+      "id": 168501,
+      "login": "iecer",
+      "image": "https://cdn.intra.42.fr/users/e0043c26cfbc7f440a1f0280c5f5bdcf/iecer.jpg",
+      "blackholeDate": "2025-11-02T06:42:00.000Z",
+      "daysRemaining": -26
+    },
+    {
+      "id": 175934,
+      "login": "emrozmen",
+      "image": "https://cdn.intra.42.fr/users/d505f4cdd6217c26f9965e3bf6fba325/emrozmen.jpg",
+      "blackholeDate": "2025-11-02T06:42:00.000Z",
+      "daysRemaining": -26
+    },
+    {
+      "id": 168510,
+      "login": "yaycicek",
+      "image": "https://cdn.intra.42.fr/users/69222a1d20c407633f9da4f4ee283b59/yaycicek.jpg",
+      "blackholeDate": "2025-11-02T06:42:00.000Z",
+      "daysRemaining": -26
+    },
+    {
+      "id": 131309,
+      "login": "mkayaalp",
+      "image": "https://cdn.intra.42.fr/users/d9c08550db61f3d2ea06530d2e04c2e0/mkayaalp.jpg",
+      "blackholeDate": "2025-11-02T06:42:00.000Z",
+      "daysRemaining": -26
+    },
+    {
+      "id": 191201,
+      "login": "kalkan",
+      "image": "https://cdn.intra.42.fr/users/1a2f9453078b9a8bf4f3131eb5ba0086/kalkan.jpg",
+      "blackholeDate": "2025-11-02T06:42:00.000Z",
+      "daysRemaining": -26
+    },
+    {
+      "id": 191740,
+      "login": "tmidik",
+      "image": "https://cdn.intra.42.fr/users/7bdeb85e120313219d0e420e399d39b2/tmidik.jpg",
+      "blackholeDate": "2025-11-02T06:42:00.000Z",
+      "daysRemaining": -26
+    },
+    {
+      "id": 198131,
+      "login": "omgorege",
+      "image": "https://cdn.intra.42.fr/users/eaeb203800643fe68ab91cf083a04c2d/omgorege.jpg",
+      "blackholeDate": "2025-11-02T06:42:00.000Z",
+      "daysRemaining": -26
+    },
+    {
+      "id": 198612,
+      "login": "hbulut",
+      "image": "https://cdn.intra.42.fr/users/3379fecfe624ee124b3b9d5f1e873dc8/hbulut.jpg",
+      "blackholeDate": "2025-11-02T06:42:00.000Z",
+      "daysRemaining": -26
+    },
+    {
+      "id": 147483,
+      "login": "musozer",
+      "image": "https://cdn.intra.42.fr/users/cece6cc8b8787042413e7aecb85b9fc2/musozer.jpg",
+      "blackholeDate": "2025-11-03T06:42:00.000Z",
+      "daysRemaining": -25
+    },
+    {
+      "id": 163701,
+      "login": "olyetisk",
+      "image": "https://cdn.intra.42.fr/users/4b0bc1cb8d706b569ede5d1b3309c77a/olyetisk.jpg",
+      "blackholeDate": "2025-11-03T06:42:00.000Z",
+      "daysRemaining": -25
+    },
+    {
+      "id": 175504,
+      "login": "mdalkili",
+      "image": "https://cdn.intra.42.fr/users/0505f677774be727443b00bb6c9097de/mdalkili.jpg",
+      "blackholeDate": "2025-11-03T06:42:00.000Z",
+      "daysRemaining": -25
+    },
+    {
+      "id": 175644,
+      "login": "abturan",
+      "image": "https://cdn.intra.42.fr/users/18b61ed43573c2111524d252af159619/abturan.jpg",
+      "blackholeDate": "2025-11-03T06:42:00.000Z",
+      "daysRemaining": -25
+    },
+    {
+      "id": 198171,
+      "login": "mubulbul",
+      "image": "https://cdn.intra.42.fr/users/c77b606509de7d9779ce5f9e17287364/mubulbul.jpg",
+      "blackholeDate": "2025-11-03T06:42:00.000Z",
+      "daysRemaining": -25
+    },
+    {
+      "id": 163634,
+      "login": "apancar",
+      "image": "https://cdn.intra.42.fr/users/c839fb00e894ef1b4f3d0270748b7e60/apancar.jpg",
+      "blackholeDate": "2025-11-04T06:42:00.000Z",
+      "daysRemaining": -24
+    },
+    {
+      "id": 175816,
+      "login": "musoysal",
+      "image": "https://cdn.intra.42.fr/users/cfe91f00fc48f385072d1d9c66e7c33a/musoysal.jpg",
+      "blackholeDate": "2025-11-04T06:42:00.000Z",
+      "daysRemaining": -24
+    },
+    {
+      "id": 175445,
+      "login": "ibaraz",
+      "image": "https://cdn.intra.42.fr/users/61b89dfdc288772e669e9dcfcf5b3f38/ibaraz.jpg",
+      "blackholeDate": "2025-11-04T06:42:00.000Z",
+      "daysRemaining": -24
+    },
+    {
+      "id": 168534,
+      "login": "aalkiz",
+      "image": "https://cdn.intra.42.fr/users/fb7010ca1cb9f43f0c5c88b11b6489bd/aalkiz.jpg",
+      "blackholeDate": "2025-11-04T06:42:00.000Z",
+      "daysRemaining": -24
+    },
+    {
+      "id": 191900,
+      "login": "ktoraman",
+      "image": "https://cdn.intra.42.fr/users/1eefa6721102969691ba84062de62de6/ktoraman.jpg",
+      "blackholeDate": "2025-11-04T06:42:00.000Z",
+      "daysRemaining": -24
+    },
+    {
+      "id": 191292,
+      "login": "hadalici",
+      "image": "https://cdn.intra.42.fr/users/58abe7fa8b5354c7021cc30957ed92f0/hadalici.jpg",
+      "blackholeDate": "2025-11-04T06:42:00.000Z",
+      "daysRemaining": -24
+    },
+    {
+      "id": 198213,
+      "login": "saskin",
+      "image": "https://cdn.intra.42.fr/users/eba12b8a81520e2dbf1e6398b6366016/saskin.jpg",
+      "blackholeDate": "2025-11-04T06:42:00.000Z",
+      "daysRemaining": -24
+    },
+    {
+      "id": 175921,
+      "login": "gurganci",
+      "image": "https://cdn.intra.42.fr/users/e07472289d045692b6d38aededd6f508/gurganci.jpg",
+      "blackholeDate": "2025-11-05T06:42:00.000Z",
+      "daysRemaining": -23
+    },
+    {
+      "id": 191840,
+      "login": "hbayram",
+      "image": "https://cdn.intra.42.fr/users/6d370031636ea601016e5e39c120b3b9/hbayram.jpg",
+      "blackholeDate": "2025-11-05T06:42:00.000Z",
+      "daysRemaining": -23
+    },
+    {
+      "id": 164104,
+      "login": "mbaypara",
+      "image": "https://cdn.intra.42.fr/users/4746703bfa38129e15803ec237cbe91e/mbaypara.jpg",
+      "blackholeDate": "2025-11-06T06:42:00.000Z",
+      "daysRemaining": -22
+    },
+    {
+      "id": 168564,
+      "login": "akosaca",
+      "image": "https://cdn.intra.42.fr/users/e93147debddefbd23087a2cbc5481e01/akosaca.jpg",
+      "blackholeDate": "2025-11-06T06:42:00.000Z",
+      "daysRemaining": -22
+    },
+    {
+      "id": 191295,
+      "login": "bakarabu",
+      "image": "https://cdn.intra.42.fr/users/4e59c767d5e66ef548ea02faef8c5853/bakarabu.jpg",
+      "blackholeDate": "2025-11-06T06:42:00.000Z",
+      "daysRemaining": -22
+    },
+    {
+      "id": 191886,
+      "login": "meke",
+      "image": "https://cdn.intra.42.fr/users/649380dabd62e95531bffaf9f8b63bd4/meke.jpg",
+      "blackholeDate": "2025-11-06T06:42:00.000Z",
+      "daysRemaining": -22
+    },
+    {
+      "id": 175471,
+      "login": "mdursun",
+      "image": "https://cdn.intra.42.fr/users/d126ce8a62ea73e8841346b076e17d98/mdursun.jpg",
+      "blackholeDate": "2025-11-07T06:42:00.000Z",
+      "daysRemaining": -21
+    },
+    {
+      "id": 191865,
+      "login": "gyildiz",
+      "image": "https://cdn.intra.42.fr/users/6135e7530c1766166fceec1fed9f11ad/gyildiz.jpg",
+      "blackholeDate": "2025-11-07T06:42:00.000Z",
+      "daysRemaining": -21
+    },
+    {
+      "id": 156457,
+      "login": "fatkeski",
+      "image": "https://cdn.intra.42.fr/users/7e83551b56042bbb456ee01d0677cc82/fatkeski.jpg",
+      "blackholeDate": "2025-11-08T06:42:00.000Z",
+      "daysRemaining": -20
+    },
+    {
+      "id": 168468,
+      "login": "halozdem",
+      "image": "https://cdn.intra.42.fr/users/1502c4cfc5128cd298019c53f1309ddb/halozdem.jpg",
+      "blackholeDate": "2025-11-08T06:42:00.000Z",
+      "daysRemaining": -20
+    },
+    {
+      "id": 198237,
+      "login": "bcili",
+      "image": "https://cdn.intra.42.fr/users/9a6d01c23776982f5530b3be0e664bc4/bcili.jpg",
+      "blackholeDate": "2025-11-08T06:42:00.000Z",
+      "daysRemaining": -20
+    },
+    {
+      "id": 175391,
+      "login": "yihakan",
+      "image": "https://cdn.intra.42.fr/users/1b0e47406f3d55bff3455c3d28bc011e/yihakan.jpg",
+      "blackholeDate": "2025-11-09T06:42:00.000Z",
+      "daysRemaining": -19
+    },
+    {
+      "id": 175952,
+      "login": "bekinci-",
+      "image": "https://cdn.intra.42.fr/users/ad73e5b258ad4c17f2aa1eddbc2caafa/bekinci-.jpg",
+      "blackholeDate": "2025-11-09T06:42:00.000Z",
+      "daysRemaining": -19
+    },
+    {
+      "id": 175803,
+      "login": "ekamar",
+      "image": "https://cdn.intra.42.fr/users/fb954de1db521ab948ff5faf2bf7ffaf/ekamar.jpg",
+      "blackholeDate": "2025-11-09T06:42:00.000Z",
+      "daysRemaining": -19
+    },
+    {
+      "id": 175802,
+      "login": "keak",
+      "image": "https://cdn.intra.42.fr/users/b69a33fc3a0bb7590976b4f2ea2b477e/keak.jpg",
+      "blackholeDate": "2025-11-09T06:42:00.000Z",
+      "daysRemaining": -19
+    },
+    {
+      "id": 191324,
+      "login": "raktas",
+      "image": "https://cdn.intra.42.fr/users/6066b2aba8a7057ef496ef124938b57b/raktas.jpg",
+      "blackholeDate": "2025-11-09T06:42:00.000Z",
+      "daysRemaining": -19
+    },
+    {
+      "id": 198130,
+      "login": "ibayandu",
+      "image": "https://cdn.intra.42.fr/users/736999ab2a52391b53fe4186b1d160a6/ibayandu.jpg",
+      "blackholeDate": "2025-11-09T06:42:00.000Z",
+      "daysRemaining": -19
+    },
+    {
+      "id": 198055,
+      "login": "aerenler",
+      "image": "https://cdn.intra.42.fr/users/a50dd3a610889640b41393c53c1b8e18/aerenler.jpg",
+      "blackholeDate": "2025-11-09T06:42:00.000Z",
+      "daysRemaining": -19
+    },
+    {
+      "id": 198065,
+      "login": "yesoytur",
+      "image": "https://cdn.intra.42.fr/users/2c3fa17d77ca87907816696f762c5548/yesoytur.jpg",
+      "blackholeDate": "2025-11-09T06:42:00.000Z",
+      "daysRemaining": -19
+    },
+    {
+      "id": 176010,
+      "login": "kbatur",
+      "image": "https://cdn.intra.42.fr/users/7fadb6ccb68cd5068d35b8c60c567d00/kbatur.jpg",
+      "blackholeDate": "2025-11-10T06:42:00.000Z",
+      "daysRemaining": -18
+    },
+    {
+      "id": 107840,
+      "login": "mdusunen",
+      "image": "https://cdn.intra.42.fr/users/e9b956f535c14ef1fd3089be46a4d40c/mdusunen.jpg",
+      "blackholeDate": "2025-11-10T06:42:00.000Z",
+      "daysRemaining": -18
+    },
+    {
+      "id": 191376,
+      "login": "aycami",
+      "image": "https://cdn.intra.42.fr/users/84b4572dee99f584ad33038a4383c65c/aycami.jpg",
+      "blackholeDate": "2025-11-10T06:42:00.000Z",
+      "daysRemaining": -18
+    },
+    {
+      "id": 164147,
+      "login": "buozcan",
+      "image": "https://cdn.intra.42.fr/users/e5f3a5ea108ba8b4b8499437dd8bdf70/buozcan.jpg",
+      "blackholeDate": "2025-11-11T06:42:00.000Z",
+      "daysRemaining": -17
+    },
+    {
+      "id": 175506,
+      "login": "haloztur",
+      "image": "https://cdn.intra.42.fr/users/c36bc64fa479731c06efc9c25473e1c7/haloztur.jpg",
+      "blackholeDate": "2025-11-11T06:42:00.000Z",
+      "daysRemaining": -17
+    },
+    {
+      "id": 175929,
+      "login": "hiipek",
+      "image": "https://cdn.intra.42.fr/users/e5f2d548380b75543bddd36c7e78a33a/hiipek.jpg",
+      "blackholeDate": "2025-11-11T06:42:00.000Z",
+      "daysRemaining": -17
+    },
+    {
+      "id": 198633,
+      "login": "yozlu",
+      "image": "https://cdn.intra.42.fr/users/49506494265a49f34dd4eb7fd0c9058f/yozlu.jpg",
+      "blackholeDate": "2025-11-11T06:42:00.000Z",
+      "daysRemaining": -17
+    },
+    {
+      "id": 198579,
+      "login": "fguryel",
+      "image": "https://cdn.intra.42.fr/users/b60f0dc520cbadaad15182cf8ce536ba/fguryel.jpg",
+      "blackholeDate": "2025-11-12T06:42:00.000Z",
+      "daysRemaining": -16
+    },
+    {
+      "id": 198597,
+      "login": "iarslan",
+      "image": "https://cdn.intra.42.fr/users/35483c13c02867c62760d7b450560b95/iarslan.jpg",
+      "blackholeDate": "2025-11-12T06:42:00.000Z",
+      "daysRemaining": -16
+    },
+    {
+      "id": 191306,
+      "login": "beldemir",
+      "image": "https://cdn.intra.42.fr/users/8aa031ce59c98d766659f14dc92ae6e2/beldemir.jpg",
+      "blackholeDate": "2025-11-14T06:42:00.000Z",
+      "daysRemaining": -14
+    },
+    {
+      "id": 156191,
+      "login": "aertuna",
+      "image": "https://cdn.intra.42.fr/users/6968679fba05cfdc9c49b0235edec827/aertuna.jpg",
+      "blackholeDate": "2025-11-15T06:42:00.000Z",
+      "daysRemaining": -13
+    },
+    {
+      "id": 164242,
+      "login": "ngulcift",
+      "image": "https://cdn.intra.42.fr/users/9d57c934b242a34caec6f7612f781dba/ngulcift.jpg",
+      "blackholeDate": "2025-11-15T06:42:00.000Z",
+      "daysRemaining": -13
+    },
+    {
+      "id": 156478,
+      "login": "tkul",
+      "image": "https://cdn.intra.42.fr/users/8d15bb04cc8f15285f8f61bd01f01f9b/tkul.jpg",
+      "blackholeDate": "2025-11-16T06:42:00.000Z",
+      "daysRemaining": -12
+    },
+    {
+      "id": 142970,
+      "login": "mitasci",
+      "image": "https://cdn.intra.42.fr/users/5d196f019f9152dc3909c73bde0b2dc9/mitasci.jpg",
+      "blackholeDate": "2025-11-16T06:42:00.000Z",
+      "daysRemaining": -12
+    },
+    {
+      "id": 175375,
+      "login": "emuzun",
+      "image": "https://cdn.intra.42.fr/users/5e93cc21df1bd98ea0680ab0c3747a0e/emuzun.jpg",
+      "blackholeDate": "2025-11-16T06:42:00.000Z",
+      "daysRemaining": -12
+    },
+    {
+      "id": 175382,
+      "login": "mdivan",
+      "image": "https://cdn.intra.42.fr/users/a444e43213033495130b5dd47a307a8d/mdivan.jpg",
+      "blackholeDate": "2025-11-16T06:42:00.000Z",
+      "daysRemaining": -12
+    },
+    {
+      "id": 191902,
+      "login": "sesimsek",
+      "image": "https://cdn.intra.42.fr/users/efacff1fb9ef9c1d495e8f2314a58298/sesimsek.jpg",
+      "blackholeDate": "2025-11-16T06:42:00.000Z",
+      "daysRemaining": -12
+    },
+    {
+      "id": 148129,
+      "login": "aaydogdu",
+      "image": "https://cdn.intra.42.fr/users/36754c7190608f16da0d2c947834619e/aaydogdu.jpg",
+      "blackholeDate": "2025-11-17T06:42:00.000Z",
+      "daysRemaining": -11
+    },
+    {
+      "id": 198060,
+      "login": "musisman",
+      "image": "https://cdn.intra.42.fr/users/fd8ada4567108fda8b31ec764e85d83b/musisman.jpg",
+      "blackholeDate": "2025-11-17T06:42:00.000Z",
+      "daysRemaining": -11
+    },
+    {
+      "id": 168507,
+      "login": "alaslan",
+      "image": "https://cdn.intra.42.fr/users/5b600e0448708355ede10fde5a0d3b33/alaslan.jpg",
+      "blackholeDate": "2025-11-18T06:42:00.000Z",
+      "daysRemaining": -10
+    },
+    {
+      "id": 156176,
+      "login": "erasahin",
+      "image": "https://cdn.intra.42.fr/users/45bac7b75a149d7144b62aec40c04f88/erasahin.jpg",
+      "blackholeDate": "2025-11-18T06:42:00.000Z",
+      "daysRemaining": -10
+    },
+    {
+      "id": 175579,
+      "login": "baskin",
+      "image": "https://cdn.intra.42.fr/users/3c5dd043dfab63af0ebeabff2cd3021a/baskin.jpg",
+      "blackholeDate": "2025-11-18T06:42:00.000Z",
+      "daysRemaining": -10
+    },
+    {
+      "id": 175817,
+      "login": "rakman",
+      "image": "https://cdn.intra.42.fr/users/67baf4e984dc4a0bbe904bc53882de9b/rakman.jpg",
+      "blackholeDate": "2025-11-19T06:42:00.000Z",
+      "daysRemaining": -9
+    },
+    {
+      "id": 191422,
+      "login": "ican",
+      "image": "https://cdn.intra.42.fr/users/31faa086e308ed34083af4b530ac2942/ican.jpg",
+      "blackholeDate": "2025-11-19T06:42:00.000Z",
+      "daysRemaining": -9
+    },
+    {
+      "id": 191283,
+      "login": "omadali",
+      "image": "https://cdn.intra.42.fr/users/7a570fd4bcc2a306b3ee941097d72322/omadali.jpg",
+      "blackholeDate": "2025-11-19T06:42:00.000Z",
+      "daysRemaining": -9
+    },
+    {
+      "id": 198654,
+      "login": "ekibar",
+      "image": "https://cdn.intra.42.fr/users/e4f5cf913a31007e7db9cf70f24bb088/ekibar.jpg",
+      "blackholeDate": "2025-11-19T06:42:00.000Z",
+      "daysRemaining": -9
+    },
+    {
+      "id": 175864,
+      "login": "vbicer",
+      "image": "https://cdn.intra.42.fr/users/ab0594cc9ffe620273789714d4b06d5b/vbicer.jpg",
+      "blackholeDate": "2025-11-20T06:42:00.000Z",
+      "daysRemaining": -8
+    },
+    {
+      "id": 143380,
+      "login": "egermen",
+      "image": "https://cdn.intra.42.fr/users/cf4217aa98360f64a16bd704ad48b646/egermen.jpg",
+      "blackholeDate": "2025-11-21T06:42:00.000Z",
+      "daysRemaining": -7
+    },
+    {
+      "id": 156423,
+      "login": "agungor",
+      "image": "https://cdn.intra.42.fr/users/2ddc72ddce5d56870464a727afa12b97/agungor.jpg",
+      "blackholeDate": "2025-11-21T06:42:00.000Z",
+      "daysRemaining": -7
+    },
+    {
+      "id": 156163,
+      "login": "euc",
+      "image": "https://cdn.intra.42.fr/users/4d66e96ea9bc347d3bef9dd642fb698e/euc.jpg",
+      "blackholeDate": "2025-11-21T06:42:00.000Z",
+      "daysRemaining": -7
+    },
+    {
+      "id": 175645,
+      "login": "tuaydin",
+      "image": "https://cdn.intra.42.fr/users/50772f611b09c6ddc185645c1f97d2ca/tuaydin.jpg",
+      "blackholeDate": "2025-11-21T06:42:00.000Z",
+      "daysRemaining": -7
+    },
+    {
+      "id": 191447,
+      "login": "sakdil",
+      "image": "https://cdn.intra.42.fr/users/7942474aad2eefaacac8d1691b48ecc3/sakdil.jpg",
+      "blackholeDate": "2025-11-21T06:42:00.000Z",
+      "daysRemaining": -7
+    },
+    {
+      "id": 191272,
+      "login": "idkahram",
+      "image": "https://cdn.intra.42.fr/users/0a7b247338873f5411993111b3085550/idkahram.jpg",
+      "blackholeDate": "2025-11-21T06:42:00.000Z",
+      "daysRemaining": -7
+    },
+    {
+      "id": 198496,
+      "login": "bucolak",
+      "image": "https://cdn.intra.42.fr/users/bc5acfca0854eae94eca02e034844ea6/bucolak.jpg",
+      "blackholeDate": "2025-11-21T06:42:00.000Z",
+      "daysRemaining": -7
+    },
+    {
+      "id": 163876,
+      "login": "rcan",
+      "image": "https://cdn.intra.42.fr/users/00524549f413113b62f6c07f92fdf2dd/rcan.jpg",
+      "blackholeDate": "2025-11-22T06:42:00.000Z",
+      "daysRemaining": -6
+    },
+    {
+      "id": 175861,
+      "login": "ecakdemi",
+      "image": "https://cdn.intra.42.fr/users/75e159a4b772ff427379b95298f8437b/ecakdemi.jpg",
+      "blackholeDate": "2025-11-22T06:42:00.000Z",
+      "daysRemaining": -6
+    },
+    {
+      "id": 175567,
+      "login": "agedikog",
+      "image": "https://cdn.intra.42.fr/users/89693a70ee18e3387bf62fff907b01fa/agedikog.jpg",
+      "blackholeDate": "2025-11-22T06:42:00.000Z",
+      "daysRemaining": -6
+    },
+    {
+      "id": 157131,
+      "login": "hakibar",
+      "image": "https://cdn.intra.42.fr/users/978445f418917733dfdb7d4389c44ab6/hakibar.jpg",
+      "blackholeDate": "2025-11-22T06:42:00.000Z",
+      "daysRemaining": -6
+    },
+    {
+      "id": 164206,
+      "login": "terden",
+      "image": "https://cdn.intra.42.fr/users/6e11427c8f62b0b50eaf3696aafe13c2/terden.jpg",
+      "blackholeDate": "2025-11-22T06:42:00.000Z",
+      "daysRemaining": -6
+    },
+    {
+      "id": 163870,
+      "login": "sebasari",
+      "image": "https://cdn.intra.42.fr/users/86005571f0877c183e0f1b7dc7b8d4bb/sebasari.jpg",
+      "blackholeDate": "2025-11-24T06:42:00.000Z",
+      "daysRemaining": -4
+    },
+    {
+      "id": 175959,
+      "login": "yenyilma",
+      "image": "https://cdn.intra.42.fr/users/d5cf31d6a03e2f0ef4d8eaf37c506341/yenyilma.jpg",
+      "blackholeDate": "2025-11-24T06:42:00.000Z",
+      "daysRemaining": -4
+    },
+    {
+      "id": 197907,
+      "login": "amsagman",
+      "image": "https://cdn.intra.42.fr/users/c372857212338d983f1032c9a8eddec9/amsagman.jpg",
+      "blackholeDate": "2025-11-24T06:42:00.000Z",
+      "daysRemaining": -4
+    },
+    {
+      "id": 168565,
+      "login": "amayuk",
+      "image": "https://cdn.intra.42.fr/users/41359519dcd41a849042349533bc448a/amayuk.jpg",
+      "blackholeDate": "2025-11-25T06:42:00.000Z",
+      "daysRemaining": -3
+    },
+    {
+      "id": 168678,
+      "login": "sekeskin",
+      "image": "https://cdn.intra.42.fr/users/4c4b1b0f5186e6c124d6d61a4d33d481/sekeskin.jpg",
+      "blackholeDate": "2025-11-25T06:42:00.000Z",
+      "daysRemaining": -3
+    },
+    {
+      "id": 191839,
+      "login": "gbodur",
+      "image": "https://cdn.intra.42.fr/users/6cadccc5c1498f518623859e78e83c28/gbodur.jpg",
+      "blackholeDate": "2025-11-25T06:42:00.000Z",
+      "daysRemaining": -3
+    },
+    {
+      "id": 191758,
+      "login": "aldurmaz",
+      "image": "https://cdn.intra.42.fr/users/5632ffb708cd53618aa369032d7c5e20/aldurmaz.jpg",
+      "blackholeDate": "2025-11-25T06:42:00.000Z",
+      "daysRemaining": -3
+    },
+    {
+      "id": 191428,
+      "login": "ualkan",
+      "image": "https://cdn.intra.42.fr/users/613a62491ebd9ad97fda5fc471e436e4/ualkan.jpg",
+      "blackholeDate": "2025-11-25T06:42:00.000Z",
+      "daysRemaining": -3
+    },
+    {
+      "id": 175806,
+      "login": "muturk",
+      "image": "https://cdn.intra.42.fr/users/5d6b843fae88647a2c4e86e324a012d6/muturk.jpg",
+      "blackholeDate": "2025-11-26T06:42:00.000Z",
+      "daysRemaining": -2
+    },
+    {
+      "id": 198079,
+      "login": "yzeybek",
+      "image": "https://cdn.intra.42.fr/users/053f9561098b607a00ed10023f0a190d/yzeybek.jpg",
+      "blackholeDate": "2025-11-27T06:42:00.000Z",
+      "daysRemaining": -1
+    },
+    {
+      "id": 198627,
+      "login": "eunlu",
+      "image": "https://cdn.intra.42.fr/users/e0cb397f43756743c7e892e45275cd7e/eunlu.jpg",
+      "blackholeDate": "2025-11-27T06:42:00.000Z",
+      "daysRemaining": -1
+    },
+    {
+      "id": 191835,
+      "login": "sbayrak",
+      "image": "https://cdn.intra.42.fr/users/529db3271b927515c646de439d82ce00/sbayrak.jpg",
+      "blackholeDate": "2025-11-28T06:42:00.000Z",
+      "daysRemaining": 0
+    },
+    {
+      "id": 176007,
+      "login": "palaca",
+      "image": "https://cdn.intra.42.fr/users/d4f1ea245bba8360a1ef5b1108bc6984/palaca.jpg",
+      "blackholeDate": "2025-11-30T06:42:00.000Z",
+      "daysRemaining": 2
+    },
+    {
+      "id": 198632,
+      "login": "hugozlu",
+      "image": "https://cdn.intra.42.fr/users/67079483111ca3045aa19892c2879708/hugozlu.jpg",
+      "blackholeDate": "2025-11-30T06:42:00.000Z",
+      "daysRemaining": 2
+    },
+    {
+      "id": 198519,
+      "login": "husarpka",
+      "image": "https://cdn.intra.42.fr/users/f0d13c3547968e5c4b5bb524782aa49d/husarpka.jpg",
+      "blackholeDate": "2025-12-03T06:42:00.000Z",
+      "daysRemaining": 5
+    },
+    {
+      "id": 191696,
+      "login": "dduyar",
+      "image": "https://cdn.intra.42.fr/users/7be2e54f4bf72f92b6ed50928f7dea18/dduyar.jpg",
+      "blackholeDate": "2025-12-04T06:42:00.000Z",
+      "daysRemaining": 6
+    },
+    {
+      "id": 163792,
+      "login": "sgokcu",
+      "image": "https://cdn.intra.42.fr/users/6432846c5d23538be9eb2a8f6ef4ceeb/sgokcu.jpg",
+      "blackholeDate": "2025-12-05T06:42:00.000Z",
+      "daysRemaining": 7
+    },
+    {
+      "id": 198165,
+      "login": "iguney",
+      "image": "https://cdn.intra.42.fr/users/831bf5e9cbb7e50d7dea095f9647aaf0/iguney.jpg",
+      "blackholeDate": "2025-12-06T06:42:00.000Z",
+      "daysRemaining": 8
+    },
+    {
+      "id": 176009,
+      "login": "amert",
+      "image": "https://cdn.intra.42.fr/users/6343294403390e788c0f54e887f54fab/amert.jpg",
+      "blackholeDate": "2025-12-08T06:42:00.000Z",
+      "daysRemaining": 10
+    },
+    {
+      "id": 197883,
+      "login": "tuzan",
+      "image": "https://cdn.intra.42.fr/users/f48850997b8e44245d7a9b10953de776/tuzan.jpg",
+      "blackholeDate": "2025-12-08T06:42:00.000Z",
+      "daysRemaining": 10
+    },
+    {
+      "id": 198615,
+      "login": "sencetin",
+      "image": "https://cdn.intra.42.fr/users/63b00f33259851555b859c536ff16980/sencetin.jpg",
+      "blackholeDate": "2025-12-08T06:42:00.000Z",
+      "daysRemaining": 10
+    },
+    {
+      "id": 147445,
+      "login": "akutludo",
+      "image": "https://cdn.intra.42.fr/users/606a905a8220ed00dbf4472291c3f2d7/akutludo.jpg",
+      "blackholeDate": "2025-12-09T06:42:00.000Z",
+      "daysRemaining": 11
+    },
+    {
+      "id": 191426,
+      "login": "azorlutu",
+      "image": "https://cdn.intra.42.fr/users/fdbcc6f11d3f41aa3b71e38062d73009/azorlutu.jpg",
+      "blackholeDate": "2025-12-10T06:42:00.000Z",
+      "daysRemaining": 12
+    },
+    {
+      "id": 191289,
+      "login": "omakbas",
+      "image": "https://cdn.intra.42.fr/users/3aa789b505a58693768d435218ef0158/omakbas.jpg",
+      "blackholeDate": "2025-12-11T06:42:00.000Z",
+      "daysRemaining": 13
+    },
+    {
+      "id": 191424,
+      "login": "mkulbak",
+      "image": "https://cdn.intra.42.fr/users/3709ac2a5f2abd7a258a614c7bf9b5a4/mkulbak.jpg",
+      "blackholeDate": "2025-12-11T06:42:00.000Z",
+      "daysRemaining": 13
+    },
+    {
+      "id": 168465,
+      "login": "ekaraurg",
+      "image": "https://cdn.intra.42.fr/users/3a71726976378d218149b156f2b65c57/ekaraurg.jpg",
+      "blackholeDate": "2025-12-13T06:42:00.000Z",
+      "daysRemaining": 15
+    },
+    {
+      "id": 175963,
+      "login": "tukaraca",
+      "image": "https://cdn.intra.42.fr/users/385aee8b5de29a69e90970286c0bc939/tukaraca.jpg",
+      "blackholeDate": "2025-12-13T06:42:00.000Z",
+      "daysRemaining": 15
+    },
+    {
+      "id": 168491,
+      "login": "itulgar",
+      "image": "https://cdn.intra.42.fr/users/ba089b8bd48b89dd1090668735e7182c/itulgar.jpg",
+      "blackholeDate": "2025-12-14T06:42:00.000Z",
+      "daysRemaining": 16
+    },
+    {
+      "id": 176035,
+      "login": "nakbas",
+      "image": "https://cdn.intra.42.fr/users/df17adb788fd3c5fb4ed3859c73d1e18/nakbas.jpg",
+      "blackholeDate": "2025-12-14T06:42:00.000Z",
+      "daysRemaining": 16
+    },
+    {
+      "id": 157142,
+      "login": "naanapa",
+      "image": "https://cdn.intra.42.fr/users/c99e2a14b322e7a878f284f7200374d6/naanapa.jpg",
+      "blackholeDate": "2025-12-20T06:42:00.000Z",
+      "daysRemaining": 22
+    },
+    {
+      "id": 175395,
+      "login": "hakotu",
+      "image": "https://cdn.intra.42.fr/users/c51c9a8058fa65150f99ae2ef2b97078/hakotu.jpg",
+      "blackholeDate": "2025-12-23T06:42:00.000Z",
+      "daysRemaining": 25
+    },
+    {
+      "id": 175588,
+      "login": "beciftci",
+      "image": "https://cdn.intra.42.fr/users/61c5edde5a20fc7cfa39b13ee84eb542/beciftci.jpg",
+      "blackholeDate": "2025-12-24T06:42:00.000Z",
+      "daysRemaining": 26
+    },
+    {
+      "id": 191288,
+      "login": "falakus",
+      "image": "https://cdn.intra.42.fr/users/d148bdbdd8ab62f0767e43b08bb2db45/falakus.jpg",
+      "blackholeDate": "2025-12-24T06:42:00.000Z",
+      "daysRemaining": 26
+    },
+    {
+      "id": 215346,
+      "login": "sozkan",
+      "image": "https://cdn.intra.42.fr/users/f7f14597055551b9d0534635bb90ee36/sozkan.jpg",
+      "blackholeDate": "2025-12-24T06:42:00.000Z",
+      "daysRemaining": 26
+    },
+    {
+      "id": 197853,
+      "login": "msengul",
+      "image": "https://cdn.intra.42.fr/users/60f439cf06a5e4a37837bb4ec0123c84/msengul.jpg",
+      "blackholeDate": "2025-12-25T06:42:00.000Z",
+      "daysRemaining": 27
+    },
+    {
+      "id": 191308,
+      "login": "makpolat",
+      "image": "https://cdn.intra.42.fr/users/823acdefdee024692a61aeca00f78d4a/makpolat.jpg",
+      "blackholeDate": "2025-12-26T06:42:00.000Z",
+      "daysRemaining": 28
+    },
+    {
+      "id": 198048,
+      "login": "teraslan",
+      "image": "https://cdn.intra.42.fr/users/3cfa2e70a24a6a978325ecad47a87bcd/teraslan.JPG",
+      "blackholeDate": "2025-12-26T06:42:00.000Z",
+      "daysRemaining": 28
+    },
+    {
+      "id": 126531,
+      "login": "aakpinar",
+      "image": "https://cdn.intra.42.fr/users/06a61d825aba4f8378d01871896360ca/aakpinar.jpg",
+      "blackholeDate": "2025-12-27T06:42:00.000Z",
+      "daysRemaining": 29
+    },
+    {
+      "id": 191882,
+      "login": "mdonmeze",
+      "image": "https://cdn.intra.42.fr/users/8a4a89cb68607bdc7cf565123d17956a/mdonmeze.jpg",
+      "blackholeDate": "2025-12-29T06:42:00.000Z",
+      "daysRemaining": 31
+    },
+    {
+      "id": 215369,
+      "login": "mozdemir",
+      "image": "https://cdn.intra.42.fr/users/5a08e5164f67cbdca05aa66e56ef444a/mozdemir.jpg",
+      "blackholeDate": "2025-12-29T06:42:00.000Z",
+      "daysRemaining": 31
+    },
+    {
+      "id": 220803,
+      "login": "zeraydog",
+      "image": "https://cdn.intra.42.fr/users/b13c8b7305439720b9ab2d9dd018535f/zeraydog.jpg",
+      "blackholeDate": "2025-12-29T06:42:00.000Z",
+      "daysRemaining": 31
+    },
+    {
+      "id": 191336,
+      "login": "austunso",
+      "image": "https://cdn.intra.42.fr/users/e215689860c098b96b37f6004b719140/austunso.jpg",
+      "blackholeDate": "2025-12-31T06:42:00.000Z",
+      "daysRemaining": 33
+    },
+    {
+      "id": 198552,
+      "login": "skaynar",
+      "image": "https://cdn.intra.42.fr/users/160985a7597a0343eaf2d7896dc0e998/skaynar.jpg",
+      "blackholeDate": "2025-12-31T06:42:00.000Z",
+      "daysRemaining": 33
+    },
+    {
+      "id": 168581,
+      "login": "kgulfida",
+      "image": "https://cdn.intra.42.fr/users/876b7e7a831f3d81ee592514e0669d2d/kgulfida.jpg",
+      "blackholeDate": "2026-01-01T06:42:00.000Z",
+      "daysRemaining": 34
+    },
+    {
+      "id": 191405,
+      "login": "agurses",
+      "image": "https://cdn.intra.42.fr/users/6870e938d33532e45e95896ec4c102b6/agurses.jpg",
+      "blackholeDate": "2026-01-01T06:42:00.000Z",
+      "daysRemaining": 34
+    },
+    {
+      "id": 198512,
+      "login": "mmunajed",
+      "image": "https://cdn.intra.42.fr/users/aed399ac1eac3300d98aa1ad247034c1/mmunajed.jpg",
+      "blackholeDate": "2026-01-02T06:42:00.000Z",
+      "daysRemaining": 35
+    },
+    {
+      "id": 157159,
+      "login": "ahyildir",
+      "image": "https://cdn.intra.42.fr/users/e6039c9dda0cd566a41416ec49bd2ce2/ahyildir.jpg",
+      "blackholeDate": "2026-01-03T06:42:00.000Z",
+      "daysRemaining": 36
+    },
+    {
+      "id": 175788,
+      "login": "kuzyilma",
+      "image": "https://cdn.intra.42.fr/users/74f2fd9286aa4d07050e768ab5429df6/kuzyilma.jpg",
+      "blackholeDate": "2026-01-05T06:42:00.000Z",
+      "daysRemaining": 38
+    },
+    {
+      "id": 215388,
+      "login": "yuyumaz",
+      "image": "https://cdn.intra.42.fr/users/71ee8a69eeaf545aa30777f1e6b0dbd8/yuyumaz.jpg",
+      "blackholeDate": "2026-01-05T06:42:00.000Z",
+      "daysRemaining": 38
+    },
+    {
+      "id": 175501,
+      "login": "femullao",
+      "image": "https://cdn.intra.42.fr/users/af112dc207936d8c6f4a5edc58ccbce2/femullao.jpg",
+      "blackholeDate": "2026-01-07T06:42:00.000Z",
+      "daysRemaining": 40
+    },
+    {
+      "id": 175369,
+      "login": "yilgar",
+      "image": "https://cdn.intra.42.fr/users/5e166cf9978470e51fe044b6669b8bab/yilgar.jpg",
+      "blackholeDate": "2026-01-07T06:42:00.000Z",
+      "daysRemaining": 40
+    },
+    {
+      "id": 198642,
+      "login": "raydogmu",
+      "image": "https://cdn.intra.42.fr/users/828a231dc5702ab8b1f02736c40d88e7/raydogmu.jpg",
+      "blackholeDate": "2026-01-07T06:42:00.000Z",
+      "daysRemaining": 40
+    },
+    {
+      "id": 198074,
+      "login": "hhaciogl",
+      "image": "https://cdn.intra.42.fr/users/caa8a5ee106169d4347a619b78485cee/hhaciogl.jpg",
+      "blackholeDate": "2026-01-10T06:42:00.000Z",
+      "daysRemaining": 43
+    },
+    {
+      "id": 168664,
+      "login": "emgul",
+      "image": "https://cdn.intra.42.fr/users/bc047a58ce166c0318837c7097e2ec46/emgul.jpg",
+      "blackholeDate": "2026-01-11T06:42:00.000Z",
+      "daysRemaining": 44
+    },
+    {
+      "id": 191342,
+      "login": "oonal",
+      "image": "https://cdn.intra.42.fr/users/eac7af98e78cce4dee7113f8ec25c0c7/oonal.jpg",
+      "blackholeDate": "2026-01-11T06:42:00.000Z",
+      "daysRemaining": 44
+    },
+    {
+      "id": 126459,
+      "login": "malbayra",
+      "image": "https://cdn.intra.42.fr/users/16467706b63a9623265feb40f1db37cb/malbayra.jpg",
+      "blackholeDate": "2026-01-12T06:42:00.000Z",
+      "daysRemaining": 45
+    },
+    {
+      "id": 164082,
+      "login": "zyilmaz",
+      "image": "https://cdn.intra.42.fr/users/aae1b81a0980d14abe192f0dd17011df/zyilmaz.jpg",
+      "blackholeDate": "2026-01-13T06:42:00.000Z",
+      "daysRemaining": 46
+    },
+    {
+      "id": 175628,
+      "login": "hialpagu",
+      "image": "https://cdn.intra.42.fr/users/89461605a1305b6fe1445a62ad86ae23/hialpagu.jpg",
+      "blackholeDate": "2026-01-14T06:42:00.000Z",
+      "daysRemaining": 47
+    },
+    {
+      "id": 191430,
+      "login": "emgenc",
+      "image": "https://cdn.intra.42.fr/users/820f0574f9ff11ecbe2ab8c1a488b9f6/emgenc.jpg",
+      "blackholeDate": "2026-01-16T06:42:00.000Z",
+      "daysRemaining": 49
+    },
+    {
+      "id": 216274,
+      "login": "meodev",
+      "image": "https://cdn.intra.42.fr/users/8d39e17fd0bfdc16a5dac84f0c43d6f5/meodev.jpg",
+      "blackholeDate": "2026-01-17T06:42:00.000Z",
+      "daysRemaining": 50
+    },
+    {
+      "id": 215347,
+      "login": "meesen",
+      "image": "https://cdn.intra.42.fr/users/ab74cd1c12e4df5a3bbe133694740c94/meesen.jpg",
+      "blackholeDate": "2026-01-17T06:42:00.000Z",
+      "daysRemaining": 50
+    },
+    {
+      "id": 191778,
+      "login": "sozgisi",
+      "image": "https://cdn.intra.42.fr/users/333c2e25c9e2e98403bb5ccda38a4550/sozgisi.jpg",
+      "blackholeDate": "2026-01-18T06:42:00.000Z",
+      "daysRemaining": 51
+    },
+    {
+      "id": 221079,
+      "login": "samoztur",
+      "image": "https://cdn.intra.42.fr/users/cd9f4ccf76a569bfcd50071733c56d42/samoztur.jpg",
+      "blackholeDate": "2026-01-19T06:42:00.000Z",
+      "daysRemaining": 52
+    },
+    {
+      "id": 220958,
+      "login": "kkocakur",
+      "image": "https://cdn.intra.42.fr/users/3c7f94a6b4d4b15c50ec74ed00250a05/kkocakur.jpg",
+      "blackholeDate": "2026-01-19T06:42:00.000Z",
+      "daysRemaining": 52
+    },
+    {
+      "id": 198651,
+      "login": "yusudemi",
+      "image": "https://cdn.intra.42.fr/users/91be3016deff6205836c1d6d6dc3615b/yusudemi.jpg",
+      "blackholeDate": "2026-01-20T06:42:00.000Z",
+      "daysRemaining": 53
+    },
+    {
+      "id": 221052,
+      "login": "asari",
+      "image": "https://cdn.intra.42.fr/users/dad61841b0a0c32f3df50282cf415b49/asari.jpg",
+      "blackholeDate": "2026-01-20T06:42:00.000Z",
+      "daysRemaining": 53
+    },
+    {
+      "id": 221122,
+      "login": "acakir",
+      "image": "https://cdn.intra.42.fr/users/00e854f10e8bc523865a30b353ca4bc0/acakir.jpg",
+      "blackholeDate": "2026-01-22T06:42:00.000Z",
+      "daysRemaining": 55
+    },
+    {
+      "id": 198172,
+      "login": "mugenan",
+      "image": "https://cdn.intra.42.fr/users/ec9893866afd139271ddf58e7793346e/mugenan.jpg",
+      "blackholeDate": "2026-01-24T06:42:00.000Z",
+      "daysRemaining": 57
+    },
+    {
+      "id": 175533,
+      "login": "zkayadib",
+      "image": "https://cdn.intra.42.fr/users/748d04072befa05ecf1ad4858fdf72f5/zkayadib.jpg",
+      "blackholeDate": "2026-01-27T06:42:00.000Z",
+      "daysRemaining": 60
+    },
+    {
+      "id": 198542,
+      "login": "hademirc",
+      "image": "https://cdn.intra.42.fr/users/85733ce0be3c0aa7d2c083ba99904608/hademirc.jpg",
+      "blackholeDate": "2026-01-27T06:42:00.000Z",
+      "daysRemaining": 60
+    },
+    {
+      "id": 215415,
+      "login": "abbal",
+      "image": "https://cdn.intra.42.fr/users/d5b91d89297312cf9f767d6c2a48b164/abbal.jpg",
+      "blackholeDate": "2026-01-27T06:42:00.000Z",
+      "daysRemaining": 60
+    },
+    {
+      "id": 191299,
+      "login": "busseven",
+      "image": "https://cdn.intra.42.fr/users/1494c94b40d1561da9baea1f7ad0cf26/busseven.jpg",
+      "blackholeDate": "2026-01-28T06:42:00.000Z",
+      "daysRemaining": 61
+    },
+    {
+      "id": 191735,
+      "login": "enbuyuk",
+      "image": "https://cdn.intra.42.fr/users/c79516679d737172bac6f560f48f6815/enbuyuk.jpg",
+      "blackholeDate": "2026-01-28T06:42:00.000Z",
+      "daysRemaining": 61
+    },
+    {
+      "id": 191849,
+      "login": "oucan",
+      "image": "https://cdn.intra.42.fr/users/df83a0c32edbe9846f88f02f4afb8be3/oucan.jpg",
+      "blackholeDate": "2026-01-29T06:42:00.000Z",
+      "daysRemaining": 62
+    },
+    {
+      "id": 220839,
+      "login": "yuak",
+      "image": "https://cdn.intra.42.fr/users/cd614c981470555701c2022f449b1aa8/yuak.jpg",
+      "blackholeDate": "2026-01-29T06:42:00.000Z",
+      "daysRemaining": 62
+    },
+    {
+      "id": 191153,
+      "login": "itest1",
+      "image": null,
+      "blackholeDate": "2026-01-29T11:30:00.000Z",
+      "daysRemaining": 62
+    },
+    {
+      "id": 216049,
+      "login": "azkaraka",
+      "image": "https://cdn.intra.42.fr/users/df3fc2efd3003b5f24f57ddf72327554/azkaraka.jpg",
+      "blackholeDate": "2026-01-31T06:42:00.000Z",
+      "daysRemaining": 64
+    },
+    {
+      "id": 221038,
+      "login": "mutopal",
+      "image": "https://cdn.intra.42.fr/users/da20d70f33760f3d7d3dace5f743b851/mutopal.jpg",
+      "blackholeDate": "2026-02-03T06:42:00.000Z",
+      "daysRemaining": 67
+    },
+    {
+      "id": 220887,
+      "login": "csener",
+      "image": "https://cdn.intra.42.fr/users/7f551f68c5d8497023c2cacc8b3a6947/csener.jpg",
+      "blackholeDate": "2026-02-03T06:42:00.000Z",
+      "daysRemaining": 67
+    },
+    {
+      "id": 220811,
+      "login": "skaraosm",
+      "image": "https://cdn.intra.42.fr/users/63c9f9481e577798cea4b2757ee6fa21/skaraosm.jpg",
+      "blackholeDate": "2026-02-04T06:42:00.000Z",
+      "daysRemaining": 68
+    },
+    {
+      "id": 220870,
+      "login": "alkoc",
+      "image": "https://cdn.intra.42.fr/users/31142da5e7751630fc314b205da6b4f7/alkoc.jpg",
+      "blackholeDate": "2026-02-04T06:42:00.000Z",
+      "daysRemaining": 68
+    },
+    {
+      "id": 215449,
+      "login": "facelik",
+      "image": "https://cdn.intra.42.fr/users/9010a3d02ad84f7181b79b67c2e42b82/facelik.jpg",
+      "blackholeDate": "2026-02-06T06:42:00.000Z",
+      "daysRemaining": 70
+    },
+    {
+      "id": 220959,
+      "login": "haras",
+      "image": "https://cdn.intra.42.fr/users/b31800d89979580c761cfe1257bba6bd/haras.jpg",
+      "blackholeDate": "2026-02-06T06:42:00.000Z",
+      "daysRemaining": 70
+    },
+    {
+      "id": 215457,
+      "login": "fakuz",
+      "image": "https://cdn.intra.42.fr/users/eb04b4420d994790c7ba8b4ec6da5efe/fakuz.jpg",
+      "blackholeDate": "2026-02-07T06:42:00.000Z",
+      "daysRemaining": 71
+    },
+    {
+      "id": 215413,
+      "login": "alyavas",
+      "image": "https://cdn.intra.42.fr/users/afb0f24547ef1c9369aed9e9256f294c/alyavas.jpg",
+      "blackholeDate": "2026-02-07T06:42:00.000Z",
+      "daysRemaining": 71
+    },
+    {
+      "id": 216135,
+      "login": "epoyraz",
+      "image": "https://cdn.intra.42.fr/users/7716991702685ac480bc64e500a97ce2/epoyraz.jpg",
+      "blackholeDate": "2026-02-07T06:42:00.000Z",
+      "daysRemaining": 71
+    },
+    {
+      "id": 220972,
+      "login": "esduman",
+      "image": "https://cdn.intra.42.fr/users/4ff2f10f7c0e8843c34316ee55e6e827/esduman.jpg",
+      "blackholeDate": "2026-02-07T06:42:00.000Z",
+      "daysRemaining": 71
+    },
+    {
+      "id": 216147,
+      "login": "burozdem",
+      "image": "https://cdn.intra.42.fr/users/0a7c678726a47a5ed274d4faff64b621/burozdem.jpg",
+      "blackholeDate": "2026-02-08T06:42:00.000Z",
+      "daysRemaining": 72
+    },
+    {
+      "id": 220786,
+      "login": "iogul",
+      "image": "https://cdn.intra.42.fr/users/dae7fb0cab463eddfb135ff818ed90c6/iogul.jpg",
+      "blackholeDate": "2026-02-08T06:42:00.000Z",
+      "daysRemaining": 72
+    },
+    {
+      "id": 215390,
+      "login": "boksuz",
+      "image": "https://cdn.intra.42.fr/users/a8c460b3edde3e814f8f0b25e9a4dd29/boksuz.jpg",
+      "blackholeDate": "2026-02-09T06:42:00.000Z",
+      "daysRemaining": 73
+    },
+    {
+      "id": 216324,
+      "login": "ituren",
+      "image": "https://cdn.intra.42.fr/users/1288574c4dec38493b02bc1b818addb6/ituren.jpg",
+      "blackholeDate": "2026-02-09T06:42:00.000Z",
+      "daysRemaining": 73
+    },
+    {
+      "id": 215354,
+      "login": "ycinarog",
+      "image": "https://cdn.intra.42.fr/users/6bb5dbe74b06daff2b3709ba08d30871/ycinarog.jpg",
+      "blackholeDate": "2026-02-10T06:42:00.000Z",
+      "daysRemaining": 74
+    },
+    {
+      "id": 215344,
+      "login": "sertan",
+      "image": "https://cdn.intra.42.fr/users/4178040c4ec5401a0cef9dc2083a2c19/sertan.jpg",
+      "blackholeDate": "2026-02-10T06:42:00.000Z",
+      "daysRemaining": 74
+    },
+    {
+      "id": 215389,
+      "login": "ecakal",
+      "image": "https://cdn.intra.42.fr/users/33e07eb42f0343594a0c36b00219e0d7/ecakal.jpg",
+      "blackholeDate": "2026-02-10T06:42:00.000Z",
+      "daysRemaining": 74
+    },
+    {
+      "id": 216141,
+      "login": "yuskaya",
+      "image": "https://cdn.intra.42.fr/users/5e2dcb337d2e65e82b5ef034153b999f/yuskaya.jpg",
+      "blackholeDate": "2026-02-10T06:42:00.000Z",
+      "daysRemaining": 74
+    },
+    {
+      "id": 215349,
+      "login": "hgergink",
+      "image": "https://cdn.intra.42.fr/users/4c8965990c76dad2c4cd92505458228b/hgergink.jpg",
+      "blackholeDate": "2026-02-11T06:42:00.000Z",
+      "daysRemaining": 75
+    },
+    {
+      "id": 198603,
+      "login": "sdaban",
+      "image": "https://cdn.intra.42.fr/users/7f9714e9cc746399d5c09afecfc1af9e/sdaban.jpg",
+      "blackholeDate": "2026-02-12T06:42:00.000Z",
+      "daysRemaining": 76
+    },
+    {
+      "id": 215441,
+      "login": "musakbul",
+      "image": "https://cdn.intra.42.fr/users/8c3cf975e9946f6bb65cd53992b8ac9a/musakbul.jpg",
+      "blackholeDate": "2026-02-12T06:42:00.000Z",
+      "daysRemaining": 76
+    },
+    {
+      "id": 220950,
+      "login": "egeaydin",
+      "image": "https://cdn.intra.42.fr/users/47f88645323c0e03bc2239f758b0fedb/egeaydin.jpg",
+      "blackholeDate": "2026-02-12T06:42:00.000Z",
+      "daysRemaining": 76
+    },
+    {
+      "id": 220951,
+      "login": "ccakir",
+      "image": "https://cdn.intra.42.fr/users/eef2da4c4b8a1fac8194baeda7e0cb6d/ccakir.jpg",
+      "blackholeDate": "2026-02-12T06:42:00.000Z",
+      "daysRemaining": 76
+    },
+    {
+      "id": 221090,
+      "login": "ikalkan",
+      "image": "https://cdn.intra.42.fr/users/795a8486dae4719627fe63614e295efb/ikalkan.jpg",
+      "blackholeDate": "2026-02-14T06:42:00.000Z",
+      "daysRemaining": 78
+    },
+    {
+      "id": 215345,
+      "login": "ycakmakc",
+      "image": "https://cdn.intra.42.fr/users/113798941be1769746a86409c0214396/ycakmakc.jpg",
+      "blackholeDate": "2026-02-16T06:42:00.000Z",
+      "daysRemaining": 80
+    },
+    {
+      "id": 221023,
+      "login": "enesaydi",
+      "image": "https://cdn.intra.42.fr/users/97bc1c02e6f034fa2c5fe103ae4e3c3c/enesaydi.jpg",
+      "blackholeDate": "2026-02-16T06:42:00.000Z",
+      "daysRemaining": 80
+    },
+    {
+      "id": 221024,
+      "login": "mkanat",
+      "image": "https://cdn.intra.42.fr/users/f46fe0f6e8b941cb6d3510df568337cb/mkanat.jpg",
+      "blackholeDate": "2026-02-16T06:42:00.000Z",
+      "daysRemaining": 80
+    },
+    {
+      "id": 215383,
+      "login": "zeayverd",
+      "image": "https://cdn.intra.42.fr/users/4373b5b3a337a376a3590a349a0ac518/zeayverd.jpg",
+      "blackholeDate": "2026-02-17T06:42:00.000Z",
+      "daysRemaining": 81
+    },
+    {
+      "id": 215440,
+      "login": "yudedele",
+      "image": "https://cdn.intra.42.fr/users/22dc8210f288ec82f4bf90e9a325b22c/yudedele.jpg",
+      "blackholeDate": "2026-02-17T06:42:00.000Z",
+      "daysRemaining": 81
+    },
+    {
+      "id": 216076,
+      "login": "bdalmaz",
+      "image": "https://cdn.intra.42.fr/users/f9c38c7e7873cfcdcc69caef90ab13ff/bdalmaz.jpg",
+      "blackholeDate": "2026-02-19T06:42:00.000Z",
+      "daysRemaining": 83
+    },
+    {
+      "id": 198078,
+      "login": "bekarada",
+      "image": "https://cdn.intra.42.fr/users/bd7a6e1bc0adf8815704a2a4810fbd81/bekarada.jpg",
+      "blackholeDate": "2026-02-20T06:42:00.000Z",
+      "daysRemaining": 84
+    },
+    {
+      "id": 198637,
+      "login": "mekaplan",
+      "image": "https://cdn.intra.42.fr/users/fc13b401540424ef28c55193c13c6b02/mekaplan.jpg",
+      "blackholeDate": "2026-02-20T06:42:00.000Z",
+      "daysRemaining": 84
+    },
+    {
+      "id": 215379,
+      "login": "aokur",
+      "image": "https://cdn.intra.42.fr/users/dd1c57480fe6ce52c52ce8432fb51bb8/aokur.jpg",
+      "blackholeDate": "2026-02-20T06:42:00.000Z",
+      "daysRemaining": 84
+    },
+    {
+      "id": 215406,
+      "login": "garslan",
+      "image": "https://cdn.intra.42.fr/users/b4905f5d2cbd0207f8fbeac6f9cb7c1a/garslan.jpg",
+      "blackholeDate": "2026-02-20T06:42:00.000Z",
+      "daysRemaining": 84
+    },
+    {
+      "id": 191762,
+      "login": "ryildiri",
+      "image": "https://cdn.intra.42.fr/users/6c9e030045ea4c40a388cd720068051d/ryildiri.jpg",
+      "blackholeDate": "2026-02-20T06:42:00.000Z",
+      "daysRemaining": 84
+    },
+    {
+      "id": 175930,
+      "login": "ebabaogl",
+      "image": "https://cdn.intra.42.fr/users/0a0d814e2664f8df49514f1df28dc30e/ebabaogl.jpg",
+      "blackholeDate": "2026-02-21T06:42:00.000Z",
+      "daysRemaining": 85
+    },
+    {
+      "id": 164110,
+      "login": "ahekinci",
+      "image": "https://cdn.intra.42.fr/users/77dbd07c00040d0aa6704983a1fcb62c/ahekinci.jpg",
+      "blackholeDate": "2026-02-21T06:42:00.000Z",
+      "daysRemaining": 85
+    },
+    {
+      "id": 215439,
+      "login": "ocelik",
+      "image": "https://cdn.intra.42.fr/users/3e9d8f35615d58a226b3cad1249ed583/ocelik.jpg",
+      "blackholeDate": "2026-02-22T06:42:00.000Z",
+      "daysRemaining": 86
+    },
+    {
+      "id": 198077,
+      "login": "elikavak",
+      "image": "https://cdn.intra.42.fr/users/70375a4b5927810e3ea8fc432665610d/elikavak.jpg",
+      "blackholeDate": "2026-02-24T06:42:00.000Z",
+      "daysRemaining": 88
+    },
+    {
+      "id": 220977,
+      "login": "ktasan",
+      "image": "https://cdn.intra.42.fr/users/d42c8e7dd768896ecb29c69b99aad955/ktasan.jpg",
+      "blackholeDate": "2026-02-24T06:42:00.000Z",
+      "daysRemaining": 88
+    },
+    {
+      "id": 221139,
+      "login": "yagunduz",
+      "image": "https://cdn.intra.42.fr/users/89823bc53a60347c94d65917daf582be/yagunduz.jpg",
+      "blackholeDate": "2026-02-24T06:42:00.000Z",
+      "daysRemaining": 88
+    },
+    {
+      "id": 220902,
+      "login": "cozcelik",
+      "image": "https://cdn.intra.42.fr/users/3f7e6de5edd889912ac472169ba1e52d/cozcelik.jpg",
+      "blackholeDate": "2026-02-24T06:42:00.000Z",
+      "daysRemaining": 88
+    },
+    {
+      "id": 220813,
+      "login": "dkaymak",
+      "image": "https://cdn.intra.42.fr/users/593f8bfec451e6fdcae578ccc6bc9295/dkaymak.jpg",
+      "blackholeDate": "2026-02-25T06:42:00.000Z",
+      "daysRemaining": 89
+    },
+    {
+      "id": 220802,
+      "login": "alsagir",
+      "image": "https://cdn.intra.42.fr/users/439d7018d7463a65fc63a29264534141/alsagir.jpg",
+      "blackholeDate": "2026-02-25T06:42:00.000Z",
+      "daysRemaining": 89
+    },
+    {
+      "id": 215435,
+      "login": "mahmmous",
+      "image": "https://cdn.intra.42.fr/users/1f941f3a8254735f21e8448fde3fbfc3/mahmmous.jpg",
+      "blackholeDate": "2026-02-26T06:42:00.000Z",
+      "daysRemaining": 90
+    },
+    {
+      "id": 220980,
+      "login": "tacagiri",
+      "image": "https://cdn.intra.42.fr/users/9374a7f5deea6f9211f669be5a9077a9/tacagiri.jpg",
+      "blackholeDate": "2026-02-26T06:42:00.000Z",
+      "daysRemaining": 90
+    },
+    {
+      "id": 191726,
+      "login": "alozpola",
+      "image": "https://cdn.intra.42.fr/users/0495bcbf8887671f6e588e8bc95f5873/alozpola.jpg",
+      "blackholeDate": "2026-02-26T06:42:00.000Z",
+      "daysRemaining": 90
+    },
+    {
+      "id": 215410,
+      "login": "mecetink",
+      "image": "https://cdn.intra.42.fr/users/5fe75993431f2e5c2712e2233f186336/mecetink.jpg",
+      "blackholeDate": "2026-02-27T06:42:00.000Z",
+      "daysRemaining": 91
+    },
+    {
+      "id": 216156,
+      "login": "bsevigen",
+      "image": "https://cdn.intra.42.fr/users/ec8bf38d3aa565b449988492dcd1c9b8/bsevigen.jpg",
+      "blackholeDate": "2026-02-28T06:42:00.000Z",
+      "daysRemaining": 92
+    },
+    {
+      "id": 216073,
+      "login": "bahkaya",
+      "image": "https://cdn.intra.42.fr/users/1e3b241e158867bf4eab604a39e4f7f6/bahkaya.jpg",
+      "blackholeDate": "2026-02-28T06:42:00.000Z",
+      "daysRemaining": 92
+    },
+    {
+      "id": 221134,
+      "login": "hergul",
+      "image": "https://cdn.intra.42.fr/users/8a61896115a6039ddc29cbf2e703db50/hergul.jpg",
+      "blackholeDate": "2026-02-28T06:42:00.000Z",
+      "daysRemaining": 92
+    },
+    {
+      "id": 216145,
+      "login": "tgeler",
+      "image": "https://cdn.intra.42.fr/users/104618cddb3db4df3c28732c2a607fce/tgeler.jpg",
+      "blackholeDate": "2026-03-01T06:42:00.000Z",
+      "daysRemaining": 93
+    },
+    {
+      "id": 220787,
+      "login": "ervsahin",
+      "image": "https://cdn.intra.42.fr/users/9a4c7b72693ed10146c167f57c11d430/ervsahin.jpg",
+      "blackholeDate": "2026-03-01T06:42:00.000Z",
+      "daysRemaining": 93
+    },
+    {
+      "id": 215453,
+      "login": "eyilmaz",
+      "image": "https://cdn.intra.42.fr/users/108a0003dee982c60075e143ab191315/eyilmaz.jpg",
+      "blackholeDate": "2026-03-02T06:42:00.000Z",
+      "daysRemaining": 94
+    },
+    {
+      "id": 221102,
+      "login": "eratasoy",
+      "image": "https://cdn.intra.42.fr/users/5a4df9e96aa1f180317902e67ae78ca3/eratasoy.jpg",
+      "blackholeDate": "2026-03-02T06:42:00.000Z",
+      "daysRemaining": 94
+    },
+    {
+      "id": 220979,
+      "login": "ztaskula",
+      "image": "https://cdn.intra.42.fr/users/3eb619ff93748da47fb12e9c590b84d2/ztaskula.jpg",
+      "blackholeDate": "2026-03-02T06:42:00.000Z",
+      "daysRemaining": 94
+    },
+    {
+      "id": 220849,
+      "login": "ztoptas",
+      "image": "https://cdn.intra.42.fr/users/743f56fdc96c47148fd392e58ff2589d/ztoptas.jpg",
+      "blackholeDate": "2026-03-02T06:42:00.000Z",
+      "daysRemaining": 94
+    },
+    {
+      "id": 216314,
+      "login": "zkutlu",
+      "image": "https://cdn.intra.42.fr/users/b5b2f158f60203a8867cad4e556f7e66/zkutlu.jpg",
+      "blackholeDate": "2026-03-03T06:42:00.000Z",
+      "daysRemaining": 95
+    },
+    {
+      "id": 220909,
+      "login": "hgenc",
+      "image": "https://cdn.intra.42.fr/users/0cede9cac84ab4179f953fd89bc8ab34/hgenc.jpg",
+      "blackholeDate": "2026-03-03T06:42:00.000Z",
+      "daysRemaining": 95
+    },
+    {
+      "id": 175589,
+      "login": "yalp",
+      "image": "https://cdn.intra.42.fr/users/ffdfeb3cc158fea10b04a7ff73d07a90/yalp.jpg",
+      "blackholeDate": "2026-03-04T06:42:00.000Z",
+      "daysRemaining": 96
+    },
+    {
+      "id": 198234,
+      "login": "ihancer",
+      "image": "https://cdn.intra.42.fr/users/7cb6ee701cf781287f59deacdfd7cc76/ihancer.jpg",
+      "blackholeDate": "2026-03-04T06:42:00.000Z",
+      "daysRemaining": 96
+    },
+    {
+      "id": 216353,
+      "login": "kedemiro",
+      "image": "https://cdn.intra.42.fr/users/16832fbda42c30dacb7a6463626d9f7b/kedemiro.jpg",
+      "blackholeDate": "2026-03-04T06:42:00.000Z",
+      "daysRemaining": 96
+    },
+    {
+      "id": 198168,
+      "login": "bkiskac",
+      "image": "https://cdn.intra.42.fr/users/2db6092d46a8c64e558bc70b94f2d3c2/bkiskac.jpg",
+      "blackholeDate": "2026-03-06T06:42:00.000Z",
+      "daysRemaining": 98
+    },
+    {
+      "id": 215411,
+      "login": "hozhan",
+      "image": "https://cdn.intra.42.fr/users/dde40724c6f2c924c2d197099e439232/hozhan.jpg",
+      "blackholeDate": "2026-03-06T06:42:00.000Z",
+      "daysRemaining": 98
+    },
+    {
+      "id": 215398,
+      "login": "zeyildir",
+      "image": "https://cdn.intra.42.fr/users/5ad332afb529c109825b33da159300a1/zeyildir.jpg",
+      "blackholeDate": "2026-03-06T06:42:00.000Z",
+      "daysRemaining": 98
+    },
+    {
+      "id": 221099,
+      "login": "byildiza",
+      "image": "https://cdn.intra.42.fr/users/9830ef24366e82a3e6ea48350614880f/byildiza.jpg",
+      "blackholeDate": "2026-03-06T06:42:00.000Z",
+      "daysRemaining": 98
+    },
+    {
+      "id": 221097,
+      "login": "hsari",
+      "image": "https://cdn.intra.42.fr/users/92a95b536202f1e1146871b3969f3840/hsari.jpg",
+      "blackholeDate": "2026-03-08T06:42:00.000Z",
+      "daysRemaining": 100
+    },
+    {
+      "id": 220815,
+      "login": "ksahinoz",
+      "image": "https://cdn.intra.42.fr/users/3d6c497094f2e21a399396d8683259e4/ksahinoz.jpg",
+      "blackholeDate": "2026-03-10T06:42:00.000Z",
+      "daysRemaining": 102
+    },
+    {
+      "id": 191445,
+      "login": "ysumeral",
+      "image": "https://cdn.intra.42.fr/users/1dab97ead12c15ed8a6c148af28472a2/ysumeral.jpg",
+      "blackholeDate": "2026-03-12T06:42:00.000Z",
+      "daysRemaining": 104
+    },
+    {
+      "id": 221107,
+      "login": "mesalman",
+      "image": "https://cdn.intra.42.fr/users/af3abd52beb1a6eb1c7a07c06b4f5bad/mesalman.jpg",
+      "blackholeDate": "2026-03-12T06:42:00.000Z",
+      "daysRemaining": 104
+    },
+    {
+      "id": 175451,
+      "login": "atursun",
+      "image": "https://cdn.intra.42.fr/users/6145cceb916ec88b15308687a373be13/atursun.jpg",
+      "blackholeDate": "2026-03-14T06:42:00.000Z",
+      "daysRemaining": 106
+    },
+    {
+      "id": 175384,
+      "login": "aozkaya",
+      "image": "https://cdn.intra.42.fr/users/9d87fdd026f2929b127972ad044a84c5/aozkaya.jpg",
+      "blackholeDate": "2026-03-14T06:42:00.000Z",
+      "daysRemaining": 106
+    },
+    {
+      "id": 191841,
+      "login": "fatmdemi",
+      "image": "https://cdn.intra.42.fr/users/ea00341ead76ece37deaa4d2ca0bbade/fatmdemi.jpg",
+      "blackholeDate": "2026-03-14T06:42:00.000Z",
+      "daysRemaining": 106
+    },
+    {
+      "id": 221045,
+      "login": "kagdas",
+      "image": "https://cdn.intra.42.fr/users/29dc9be876babd1e0e0b4d4239d5c0fb/kagdas.jpg",
+      "blackholeDate": "2026-03-14T06:42:00.000Z",
+      "daysRemaining": 106
+    },
+    {
+      "id": 216162,
+      "login": "zedurak",
+      "image": "https://cdn.intra.42.fr/users/0f8fcdbe386aaaa1e163330404570932/zedurak.jpg",
+      "blackholeDate": "2026-03-15T06:42:00.000Z",
+      "daysRemaining": 107
+    },
+    {
+      "id": 220993,
+      "login": "skucukon",
+      "image": "https://cdn.intra.42.fr/users/96f69368b58b76d62e9d39b3182c6c79/skucukon.jpg",
+      "blackholeDate": "2026-03-15T06:42:00.000Z",
+      "daysRemaining": 107
+    },
+    {
+      "id": 216079,
+      "login": "tcebeci",
+      "image": "https://cdn.intra.42.fr/users/887c9a31f64f503068b86a3980b26877/tcebeci.jpg",
+      "blackholeDate": "2026-03-16T06:42:00.000Z",
+      "daysRemaining": 108
+    },
+    {
+      "id": 191352,
+      "login": "igurses",
+      "image": "https://cdn.intra.42.fr/users/c3d2e620dd4114534c5412c1a6011c06/igurses.jpg",
+      "blackholeDate": "2026-03-17T06:42:00.000Z",
+      "daysRemaining": 109
+    },
+    {
+      "id": 221035,
+      "login": "htorun",
+      "image": "https://cdn.intra.42.fr/users/d99a6bcd8cc3bfe5de14fdb7895ce494/htorun.jpg",
+      "blackholeDate": "2026-03-17T06:42:00.000Z",
+      "daysRemaining": 109
+    },
+    {
+      "id": 216132,
+      "login": "nedogan",
+      "image": "https://cdn.intra.42.fr/users/5921eec823328a38e3e9e16e71cfedc8/nedogan.jpg",
+      "blackholeDate": "2026-03-19T06:42:00.000Z",
+      "daysRemaining": 111
+    },
+    {
+      "id": 175457,
+      "login": "rfirat",
+      "image": "https://cdn.intra.42.fr/users/81097aad07bbf46a4434eaa9292404ad/rfirat.jpg",
+      "blackholeDate": "2026-03-21T06:42:00.000Z",
+      "daysRemaining": 113
+    },
+    {
+      "id": 221069,
+      "login": "ogudemir",
+      "image": "https://cdn.intra.42.fr/users/4da85ac58ba10a43c2e305fc4d3c4642/ogudemir.jpg",
+      "blackholeDate": "2026-03-21T06:42:00.000Z",
+      "daysRemaining": 113
+    },
+    {
+      "id": 175400,
+      "login": "aldinc",
+      "image": "https://cdn.intra.42.fr/users/d63bc59d53cfb07c0dc57bf7f56e853b/aldinc.jpg",
+      "blackholeDate": "2026-03-22T06:42:00.000Z",
+      "daysRemaining": 114
+    },
+    {
+      "id": 221056,
+      "login": "zkarali",
+      "image": "https://cdn.intra.42.fr/users/04f833559bd1b038e9966dae066f548d/zkarali.jpg",
+      "blackholeDate": "2026-03-22T06:42:00.000Z",
+      "daysRemaining": 114
+    },
+    {
+      "id": 191311,
+      "login": "aakyuz",
+      "image": "https://cdn.intra.42.fr/users/9a93fccdfccc7533a7c04f5b96d1a596/aakyuz.jpg",
+      "blackholeDate": "2026-03-23T06:42:00.000Z",
+      "daysRemaining": 115
+    },
+    {
+      "id": 215446,
+      "login": "asay",
+      "image": "https://cdn.intra.42.fr/users/544b0f983cb859c088a3acb5d6f02110/asay.jpg",
+      "blackholeDate": "2026-03-23T06:42:00.000Z",
+      "daysRemaining": 115
+    },
+    {
+      "id": 221028,
+      "login": "hayildiz",
+      "image": "https://cdn.intra.42.fr/users/adc7270d1b811185c121ba4f67250e0a/hayildiz.jpg",
+      "blackholeDate": "2026-03-24T06:42:00.000Z",
+      "daysRemaining": 116
+    },
+    {
+      "id": 216259,
+      "login": "mcebi",
+      "image": "https://cdn.intra.42.fr/users/04be1c46ed40253f206860e909d18b29/mcebi.jpg",
+      "blackholeDate": "2026-03-25T06:42:00.000Z",
+      "daysRemaining": 117
+    },
+    {
+      "id": 220928,
+      "login": "yussen",
+      "image": "https://cdn.intra.42.fr/users/43379d516095091443b4a021f597d0dd/yussen.jpg",
+      "blackholeDate": "2026-03-25T06:42:00.000Z",
+      "daysRemaining": 117
+    },
+    {
+      "id": 198173,
+      "login": "usogukpi",
+      "image": "https://cdn.intra.42.fr/users/798e619be6ca16e861fe35fd86611333/usogukpi.jpg",
+      "blackholeDate": "2026-03-26T06:42:00.000Z",
+      "daysRemaining": 118
+    },
+    {
+      "id": 175398,
+      "login": "etorun",
+      "image": "https://cdn.intra.42.fr/users/faa5154a85b0ce3a22a8e8c517c1890e/etorun.jpg",
+      "blackholeDate": "2026-03-28T06:42:00.000Z",
+      "daysRemaining": 120
+    },
+    {
+      "id": 221132,
+      "login": "hdere",
+      "image": "https://cdn.intra.42.fr/users/98700bad9c39d28a97dbf7731c881cef/hdere.jpg",
+      "blackholeDate": "2026-03-28T06:42:00.000Z",
+      "daysRemaining": 120
+    },
+    {
+      "id": 198501,
+      "login": "yidemir",
+      "image": "https://cdn.intra.42.fr/users/f5a8ac420176ed161223157f0b5f888a/yidemir.jpg",
+      "blackholeDate": "2026-03-29T06:42:00.000Z",
+      "daysRemaining": 121
+    },
+    {
+      "id": 234803,
+      "login": "bgoth",
+      "image": "https://cdn.intra.42.fr/users/7aabcf37cd2178fc7b393cc6df9e9c39/bgoth.jpeg",
+      "blackholeDate": "2026-03-29T06:32:00.000Z",
+      "daysRemaining": 121
+    },
+    {
+      "id": 216245,
+      "login": "skarayil",
+      "image": "https://cdn.intra.42.fr/users/9e919e4f40d5cdf5d0e3f1695d576ad1/skarayil.jpg",
+      "blackholeDate": "2026-03-30T06:42:00.000Z",
+      "daysRemaining": 122
+    },
+    {
+      "id": 216279,
+      "login": "esakgul",
+      "image": "https://cdn.intra.42.fr/users/8f788009838b15a2b85a442d00b2132f/esakgul.jpg",
+      "blackholeDate": "2026-03-30T06:42:00.000Z",
+      "daysRemaining": 122
+    },
+    {
+      "id": 221049,
+      "login": "satabay",
+      "image": "https://cdn.intra.42.fr/users/d003fca550cb8ef007410334bb097242/satabay.jpg",
+      "blackholeDate": "2026-03-30T06:42:00.000Z",
+      "daysRemaining": 122
+    },
+    {
+      "id": 220941,
+      "login": "zarikan",
+      "image": "https://cdn.intra.42.fr/users/170cf754e0ed9975851bc205efb4b94a/zarikan.jpg",
+      "blackholeDate": "2026-03-31T06:42:00.000Z",
+      "daysRemaining": 123
+    },
+    {
+      "id": 220964,
+      "login": "bkara",
+      "image": "https://cdn.intra.42.fr/users/81cd47b4324bd61220cc0de8dbef2a22/bkara.jpg",
+      "blackholeDate": "2026-04-06T06:42:00.000Z",
+      "daysRemaining": 129
+    },
+    {
+      "id": 220807,
+      "login": "muayna",
+      "image": "https://cdn.intra.42.fr/users/556b0ecc1c58dfc95cbd822fa0d5db97/muayna.jpg",
+      "blackholeDate": "2026-04-07T06:42:00.000Z",
+      "daysRemaining": 130
+    },
+    {
+      "id": 221133,
+      "login": "byaprak",
+      "image": "https://cdn.intra.42.fr/users/38117f36dcbc13f1079d61e8bcc704f7/byaprak.jpg",
+      "blackholeDate": "2026-04-08T06:42:00.000Z",
+      "daysRemaining": 131
+    },
+    {
+      "id": 216222,
+      "login": "harici",
+      "image": "https://cdn.intra.42.fr/users/3a7cb039c46d48aad92d4d59c6374c31/harici.jpg",
+      "blackholeDate": "2026-04-09T06:42:00.000Z",
+      "daysRemaining": 132
+    },
+    {
+      "id": 216349,
+      "login": "ogokdas",
+      "image": "https://cdn.intra.42.fr/users/1536d05b69dafd578a4ebfd9a5faae64/ogokdas.jpg",
+      "blackholeDate": "2026-04-10T06:42:00.000Z",
+      "daysRemaining": 133
+    },
+    {
+      "id": 220875,
+      "login": "ncamlica",
+      "image": "https://cdn.intra.42.fr/users/147f1491ed555de3a0bd84d369ff73ba/ncamlica.jpg",
+      "blackholeDate": "2026-04-10T06:42:00.000Z",
+      "daysRemaining": 133
+    },
+    {
+      "id": 221053,
+      "login": "ayonal",
+      "image": "https://cdn.intra.42.fr/users/671223774108ff6fd7b089294bbd0dfe/ayonal.jpg",
+      "blackholeDate": "2026-04-10T06:42:00.000Z",
+      "daysRemaining": 133
+    },
+    {
+      "id": 198605,
+      "login": "eonen",
+      "image": "https://cdn.intra.42.fr/users/bb10014e5a29ecac6cef2fedcbf57967/eonen.jpg",
+      "blackholeDate": "2026-04-13T06:42:00.000Z",
+      "daysRemaining": 136
+    },
+    {
+      "id": 215458,
+      "login": "rbilim",
+      "image": "https://cdn.intra.42.fr/users/c1e5c0386e245be5fdeea7837c39fd13/rbilim.jpg",
+      "blackholeDate": "2026-04-13T06:42:00.000Z",
+      "daysRemaining": 136
+    },
+    {
+      "id": 220952,
+      "login": "emkir",
+      "image": "https://cdn.intra.42.fr/users/357e8f5602f46d67b9202148e0f6e988/emkir.jpg",
+      "blackholeDate": "2026-04-13T06:42:00.000Z",
+      "daysRemaining": 136
+    },
+    {
+      "id": 221065,
+      "login": "ydinler",
+      "image": "https://cdn.intra.42.fr/users/091d97ffa2e02a5ade8545a80fde50bc/ydinler.jpg",
+      "blackholeDate": "2026-04-13T06:42:00.000Z",
+      "daysRemaining": 136
+    },
+    {
+      "id": 220985,
+      "login": "uozdes",
+      "image": "https://cdn.intra.42.fr/users/4fecdcb102211062efc2ea83821571ce/uozdes.jpg",
+      "blackholeDate": "2026-04-15T06:42:00.000Z",
+      "daysRemaining": 138
+    },
+    {
+      "id": 220854,
+      "login": "bkinali",
+      "image": "https://cdn.intra.42.fr/users/e58eed03d8c86cd6b6ebae7bba7f2e3e/bkinali.jpg",
+      "blackholeDate": "2026-04-15T06:42:00.000Z",
+      "daysRemaining": 138
+    },
+    {
+      "id": 220819,
+      "login": "sdadak",
+      "image": "https://cdn.intra.42.fr/users/3597253f3a8e88048d08d4edf4673ffa/sdadak.jpg",
+      "blackholeDate": "2026-04-17T06:42:00.000Z",
+      "daysRemaining": 140
+    },
+    {
+      "id": 221101,
+      "login": "fyagbasa",
+      "image": "https://cdn.intra.42.fr/users/db3ea0754ab595e5fede1df8dbc904f1/fyagbasa.jpg",
+      "blackholeDate": "2026-04-24T06:42:00.000Z",
+      "daysRemaining": 147
+    },
+    {
+      "id": 198495,
+      "login": "yademirk",
+      "image": "https://cdn.intra.42.fr/users/4c13ce957d336ea968563ce91815571c/yademirk.jpg",
+      "blackholeDate": "2026-04-29T06:42:00.000Z",
+      "daysRemaining": 152
+    },
+    {
+      "id": 191791,
+      "login": "ayasar",
+      "image": "https://cdn.intra.42.fr/users/e8e76dfa8db2deeb1dc8f0a716c8ae24/ayasar.jpg",
+      "blackholeDate": "2026-05-08T06:42:00.000Z",
+      "daysRemaining": 161
+    },
+    {
+      "id": 215462,
+      "login": "iduman",
+      "image": "https://cdn.intra.42.fr/users/81b442254e648ab4b7aab10881058c5f/iduman.jpg",
+      "blackholeDate": "2026-06-02T06:42:00.000Z",
+      "daysRemaining": 186
+    },
+    {
+      "id": 220921,
+      "login": "epakdama",
+      "image": "https://cdn.intra.42.fr/users/a19fc534e97c58bdcb16a63cac1b6613/epakdama.jpg",
+      "blackholeDate": "2026-06-24T06:42:00.000Z",
+      "daysRemaining": 208
+    },
+    {
+      "id": 175617,
+      "login": "mikkayma",
+      "image": "https://cdn.intra.42.fr/users/cb1a093e2cbdac5af4b1c246fe5c382d/mikkayma.jpg",
+      "blackholeDate": "2026-07-02T06:42:00.000Z",
+      "daysRemaining": 216
+    },
+    {
+      "id": 215409,
+      "login": "vzeybek",
+      "image": "https://cdn.intra.42.fr/users/ab670b2e02fc33f94c874364d2c345a5/vzeybek.jpg",
+      "blackholeDate": "2026-07-19T06:42:00.000Z",
+      "daysRemaining": 233
+    },
+    {
+      "id": 175796,
+      "login": "fkuyumcu",
+      "image": "https://cdn.intra.42.fr/users/85ed11029c3c668ec7ee1591e6660722/fkuyumcu.jpg",
+      "blackholeDate": "2026-07-27T06:42:00.000Z",
+      "daysRemaining": 241
+    },
+    {
+      "id": 221036,
+      "login": "hyakici",
+      "image": "https://cdn.intra.42.fr/users/3d7b2045a01b94fe6d72cd85713b05bc/hyakici.jpg",
+      "blackholeDate": "2026-09-06T06:42:00.000Z",
+      "daysRemaining": 282
+    },
+    {
+      "id": 220975,
+      "login": "osancak",
+      "image": "https://cdn.intra.42.fr/users/865617fcfbb9f2f3bbb6dc42cdd83efa/osancak.jpg",
+      "blackholeDate": "2026-09-10T06:42:00.000Z",
+      "daysRemaining": 286
+    },
+    {
+      "id": 174401,
+      "login": "itest",
+      "image": "https://cdn.intra.42.fr/users/96b671d4799e0b4f17cecdd9f17c8de0/itest.png",
+      "blackholeDate": "2027-03-17T07:51:00.000Z",
+      "daysRemaining": 474
+    }
+  ]
+}

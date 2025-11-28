@@ -1,0 +1,54 @@
+{
+  "users": {
+    "egeaydin": {
+      "id": 220950,
+      "login": "egeaydin",
+      "factionId": 2,
+      "energy": 0,
+      "lastEnergyUpdate": 1764363669486,
+      "score": 150,
+      "battlesWon": 2,
+      "battlesLost": 0
+    }
+  },
+  "factions": {
+    "0": {
+      "id": 0,
+      "name": "The Alliance",
+      "score": 0,
+      "territories": 0
+    },
+    "1": {
+      "id": 1,
+      "name": "The Order",
+      "score": 0,
+      "territories": 0
+    },
+    "2": {
+      "id": 2,
+      "name": "The Assembly",
+      "score": 200,
+      "territories": 2
+    },
+    "3": {
+      "id": 3,
+      "name": "The Federation",
+      "score": 0,
+      "territories": 0
+    }
+  },
+  "territories": {
+    "k1m06s01": {
+      "id": "k1m06s01",
+      "factionId": 2,
+      "health": 50,
+      "ownerLogin": "egeaydin"
+    },
+    "k1m05s04": {
+      "id": "k1m05s04",
+      "factionId": 2,
+      "health": 82,
+      "ownerLogin": "egeaydin"
+    }
+  }
+}
