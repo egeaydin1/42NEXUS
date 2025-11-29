@@ -52,7 +52,7 @@ const IntroSequence: React.FC<IntroSequenceProps> = ({ onComplete, totalCheaters
             // Step 2: Radar Scan
             setStep(2);
             setShowRadar(true);
-            setGlitchText("SCANNING CAMPUS 49 & 50...");
+            setGlitchText("SCANNING CAMPUS ISTANBUL & KOCAELI...");
             await new Promise(r => setTimeout(r, 3000));
 
             // Step 3: Alarm
